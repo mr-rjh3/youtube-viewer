@@ -55,11 +55,11 @@ def scrapeTrendingPage(URL, verbose=False):
                             
     return trending_urls
 
-def scrapeVideo(URL, maxdepth, videos_watched, rewrite, doSuggestedVideos, bar, verbose=False, depth=0):
+def scrapeVideo(URL, maxdepth, videos_watched, rewrite, doSuggestedVideos, bar, verbose=False, depth=0, numAutoplay=0, numSuggested=0):
     if(depth == maxdepth):
         # We have reached the maximum depth so we will return
         # print("Maximum depth reached")
-        return
+        return numAutoplay, numSuggested
     
     # Find the hash of the URL
     H = blake2b(bytes(URL, encoding='utf-8')).hexdigest()
@@ -69,7 +69,7 @@ def scrapeVideo(URL, maxdepth, videos_watched, rewrite, doSuggestedVideos, bar, 
         page = requests.get(URL)
     except:
         # print("Error: Could not scrape URL: ", URL)
-        return
+        return numAutoplay, numSuggested
     
     # Write to the log file
     if(verbose):
@@ -97,7 +97,6 @@ def scrapeVideo(URL, maxdepth, videos_watched, rewrite, doSuggestedVideos, bar, 
     #     json.dump(yt_data, f, indent=4)
 
     video_data = {}
-    video_data["depth"] = depth
 
     # -------------video title-------------
     try:
@@ -147,45 +146,88 @@ def scrapeVideo(URL, maxdepth, videos_watched, rewrite, doSuggestedVideos, bar, 
     # -------------CURRENT URL-------------
     video_data["URL"] = URL
     # -------------NEXT URL-------------
-    # TODO: make sure the next video is not a short
     if(doSuggestedVideos): # if doSuggestedVideos is true, get suggested video URL first
-        try:
-            next_video_id = yt_data['contents']['twoColumnWatchNextResults']['secondaryResults']['secondaryResults']['results'][0]['compactVideoRenderer']['navigationEndpoint']['commandMetadata']['webCommandMetadata']['url']
-        except KeyError as e:
-            # if suggested video fails try suggested
-            if(verbose): print("Could not find suggested video key:", e, "..., trying autoplay video")
-            try:
-                next_video_id = yt_data['contents']['twoColumnWatchNextResults']['autoplay']['autoplay']['sets'][0]['autoplayVideo']['commandMetadata']['webCommandMetadata']['url']
-            except KeyError as e:
+        next_video_id, error = getSuggestedVideo(yt_data)
+        if(next_video_id != ""):
+            numSuggested += 1
+        else:
+            # if suggested video fails try autoplay
+            if(verbose): print("Could not find suggested video key:", error, "..., trying autoplay video")
+            if(error != ""):
+                with open(f"yt_data/depth-{depth}-Suggested_error-KEYERROR-{error}-" + H + ".json", "w", encoding="utf-8") as f:
+                        json.dump(yt_data, f, indent=4)
+            else:
+                with open(f"yt_data/depth-{depth}-Suggested_not_found-" + H + ".json", "w", encoding="utf-8") as f:
+                        json.dump(yt_data, f, indent=4)
+
+            next_video_id, error = getAutoplayVideo(yt_data)
+            if(next_video_id != ""):
+                numAutoplay += 1
+            else:
                 # if both fail return
-                print("KEY ERROR: ", e)
-                with open(f"yt_data/depth-{depth}-KEYERROR-{e}-" + H + ".json", "w", encoding="utf-8") as f:
+                print("KEY ERROR: ", error)
+                with open(f"yt_data/depth-{depth}-Autoplay_error-KEYERROR-{error}-" + H + ".json", "w", encoding="utf-8") as f:
                     json.dump(yt_data, f, indent=4)
                 print("Could not find the next video..., returning at depth: ", depth)
-                return
+                return numAutoplay, numSuggested
     else: # Otherwise get next autoplay video
-        try:
-            next_video_id = yt_data['contents']['twoColumnWatchNextResults']['autoplay']['autoplay']['sets'][0]['autoplayVideo']['commandMetadata']['webCommandMetadata']['url']
-        except KeyError as e:
+        next_video_id, error = getAutoplayVideo(yt_data)
+        if(next_video_id != ""):
+            numAutoplay += 1
+        else:
             # if autoplay video fails try suggested
-            if(verbose): print("Could not find autoplay video key:", e, "..., trying first suggested video")
-            try:
-                next_video_id = yt_data['contents']['twoColumnWatchNextResults']['secondaryResults']['secondaryResults']['results']['compactVideoRenderer'][0]['navigationEndpoint']['commandMetadata']['webCommandMetadata']['url']
-            except KeyError as e:
+            if(verbose): print("Could not find suggested video key:", e, "..., trying autoplay video")
+            next_video_id = getSuggestedVideo(yt_data)
+            if(next_video_id != ""):
+                numSuggested += 1
+            else:
                 # if both fail return
-                print("KEY ERROR: ", e)
-                with open(f"yt_data/depth-{depth}-KEYERROR-{e}-" + H + ".json", "w", encoding="utf-8") as f:
+                print("KEY ERROR: ", error)
+                with open(f"yt_data/depth-{depth}-KEYERROR-{error}-" + H + ".json", "w", encoding="utf-8") as f:
                     json.dump(yt_data, f, indent=4)
                 print("Could not find the next video..., returning at depth: ", depth)
-                return
-    next_watch_url = f"https://www.youtube.com{next_video_id}"
+                return numAutoplay, numSuggested
+    next_watch_url = f"https://www.youtube.com/watch?v={next_video_id}"
     
     # check if we have seen this video before
     try:
         videos_watched[H]["seen_count"] += 1
+        videos_watched[H]['depths'].append(depth)
     except KeyError:
         videos_watched[H] = video_data
         videos_watched[H]["seen_count"] = 1
+        videos_watched[H]['depths'] = [depth]
 
     bar()
-    scrapeVideo(next_watch_url, maxdepth, videos_watched, rewrite, doSuggestedVideos, bar, verbose, depth+1)  
+    return scrapeVideo(next_watch_url, maxdepth, videos_watched, rewrite, doSuggestedVideos, bar, verbose, depth+1, numAutoplay, numSuggested)  
+
+def getSuggestedVideo(yt_data):
+    next_video_id = ""
+    
+    try: # Try catch to check if the results are there
+        for result in yt_data['contents']['twoColumnWatchNextResults']['secondaryResults']['secondaryResults']['results']:
+            try: # Try catch to check if this is the compactVideoRenderer JSON
+                next_video_id = result['compactVideoRenderer']['videoId']
+                return next_video_id, ""
+            except KeyError:
+                try: # Try catch to check if this is the compactMovieRenderer JSON
+                    next_video_id = result['compactMovieRenderer']['videoId']
+                    return next_video_id, ""
+                except KeyError:
+                    for content in result['richGridRenderer']['contents']:
+                        try: # Try catch to check if this is the richItemRenderer JSON
+                            next_video_id = content['richItemRenderer']['content']['videoRenderer']['videoId']
+                            return next_video_id, ""
+                        except KeyError as e:
+                            # Very bad, cant get video
+                            return "", e
+                continue
+    except KeyError as e:
+        return "", e
+    return next_video_id, ""
+def getAutoplayVideo(yt_data):
+    try:
+        next_video_id = yt_data['contents']['twoColumnWatchNextResults']['autoplay']['autoplay']['sets'][0]['autoplayVideo']['watchEndpoint']['videoId']
+    except KeyError as e:
+        return "", e
+    return next_video_id, ""
