@@ -1,6 +1,6 @@
 import os
 import re
-import testAPI
+import youtubeViewer
 import json
 from pyyoutube import Api
 from alive_progress import alive_bar
@@ -69,7 +69,7 @@ if __name__ == "__main__":
             os.makedirs(path)
         
         with alive_bar(args.maxDepth, title=f"{printColors.BOLD}Video: {videoNum} - Root-ID: {video.id}{printColors.ENDC}", enrich_print=True) as bar:
-            watchedVideos, deadends = testAPI.getVideos(args.maxDepth, video.id, api, bar)
+            watchedVideos, deadends = youtubeViewer.getVideos(args.maxDepth, video.id, api, bar)
 
         dumpDictToJSON(watchedVideos, f"{path}/Videos")
         dumpDictToJSON(deadends, f"{path}/Deadends")
