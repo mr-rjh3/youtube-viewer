@@ -1,0 +1,1157 @@
+{
+    "dXMlaD-kqDs": {
+        "kind": "youtube#videoListResponse",
+        "etag": "lMeymtPg-dJslAmJjRrK_pv70BA",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "JqGjrj5Tf0rGOJJg7IScsMhhUIM",
+                "id": "dXMlaD-kqDs",
+                "snippet": {
+                    "publishedAt": "2024-07-10T16:00:07Z",
+                    "channelId": "UCQoxJOkwaCgyzQtiuAIDcuw",
+                    "title": "Meagan Good Talks Tyler Perry Pay, Divorce From DeVon Franklin, Jonathan Majors And Katt Williams",
+                    "description": "Multi-talented actress Meagan Good joins Shannon Sharpe at Club Shay Shay for a candid and gripping conversation. She opens up about her tumultuous journey growing up and navigating the entertainment industry. Meagan shares an intense story from her time on a Nickelodeon show, detailing how a fight escalated into a dangerous brawl, making her question her actions and seek peace.\n\nMeagan discusses facing racism at school and being unfairly targeted by teachers. She also shares the emotional impact of losing possessions given to her by her father, who had a background in the LAPD.\n\nReflecting on her acting career, Meagan talked about her early roles in the cult classic \"Friday\" and working with icons like Chris Tucker and Ice Cube. She also shared valuable advice from Michael Clarke Duncan about treating everyone on set with respect.\n\nDespite numerous challenges and tough choices, Meagan underscores the importance of authenticity and not compromising oneself for success. She highlights her resilience, the lessons she\u2019s learned, and the meaningful relationships she\u2019s built throughout her life and career.\n\nCelebrating 30 years in the business, Meagan expresses gratitude and hope for 30 more years, emphasizing the importance of love and support in her journey. She shares stories about her experiences as a young black actress in a predominantly white industry.\n\nMeagan also recounted facing intense pressures on set, including a difficult experience with a director that almost made her reconsider her acting career. This moment, however, reinforced her determination to succeed.\n\nThroughout the conversation, Meagan\u2019s resilience shines as she speaks about her mother\u2019s wisdom, God\u2019s guidance, and the significance of humility and confidence. She recounts her growth in the industry and her determination to be recognized for her talent.\n\nIn this interview Meagan also touches on her experiences with homeschooling due to her acting career, the guidance she received from industry veterans, and her decision to focus on movies over TV shows to explore diverse characters. Despite the adversities, Meagan\u2019s journey is a testament to her strength and the valuable lessons she\u2019s learned along the way.\n\nJoin Shannon Sharpe and Meagan Good in this heartfelt and inspiring conversation, celebrating her incredible career and the strength she\u2019s shown in overcoming obstacles and staying true to herself.\n\n#ClubShayShay\u200b #MeaganGood #johnathanmajors \n\nBuy LePortier: https://leportiercognac.com/products/shay_vsop_750ml/\n\nGet 50% off your first box of fresh, healthy food at TheFarmers Dog.com/SHAYSHAY\n\nSUBSCRIBE to get the latest Club Shay Shay content: https://www.youtube.com/c/ClubShayShay?sub_confirmation=1\nListen to the Club Shay Shay podcast on Apple Podcasts: https://podcasts.apple.com/us/podcast/club-shay-shay/id1531023690\nListen to the Club Shay Shay podcast on Spotify: https://open.spotify.com/show/060hDdnydsJyMi17TmvyAh?si=iuda1z7oTE-21ZYzwiUdhg&nd=1\n\nLike Club Shay Shay on Facebook: https://m.facebook.com/ClubShayShay/\nFollow Club Shay Shay on Twitter: https://x.com/clubshayshay?s=21&t=PF1soCgsTT_NEerDJm9Lfg\nFollow Club Shay Shay on Instagram: https://instagram.com/clubshayshay?igshid=MzRlODBiNWFlZA==\nFollow Shannon Sharpe on Twitter: https://x.com/shannonsharpe?s=21&t=PF1soCgsTT_NEerDJm9Lfg\nFollow Club Shay Shay on Tik Tok: https://www.tiktok.com/@clubshayshaypod?_t=8fJ79WZy2fb&_r=1\n\nAbout Club Shay Shay:\nClub Shay Shay is a weekly podcast hosted by Shannon Sharpe \u2013 3x Super Bowl champion, member of the Pro Football Hall of Fame and co-host of First Take on ESPN. Each week Shannon will sit down with athletes, celebrities and influencers to break down, analyze and discuss the latest headlines in sports, pop culture and everything in-between. Get on the VIP list at Club Shay Shay NOW and never miss an episode!\n\nMeagan Good | EP. 131\n\nLink of Ep. \nhttps://youtu.be/dXMlaD-kqDs\n\nClub Shay Shay\nhttps://www.youtube.com/c/ClubShayShay",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/dXMlaD-kqDs/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/dXMlaD-kqDs/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/dXMlaD-kqDs/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/dXMlaD-kqDs/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/dXMlaD-kqDs/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Club Shay Shay",
+                    "tags": [
+                        "Club Shay Shay",
+                        "Shannon Sharpe podcast",
+                        "Club Shay Shay Shannon Sharpe",
+                        "Club Shay Shay podcast",
+                        "Shay Shay podcast",
+                        "Shannon Sharpe",
+                        "Movies",
+                        "Comedian",
+                        "Actor",
+                        "Meagan Good",
+                        "Hollywood",
+                        "Actress",
+                        "Friday",
+                        "TV",
+                        "Chris Tucker",
+                        "Ice Cube",
+                        "Jonathan Majors",
+                        "Katt Williams",
+                        "Tyler Perry",
+                        "Nickelodeon",
+                        "TLC",
+                        "Deliver Us from Eva",
+                        "Stomp the Yard",
+                        "Cousin Skeeter",
+                        "Act Like A Lady Think Like A Man",
+                        "DeVon Franklin",
+                        "Moesha",
+                        "Bob Saget",
+                        "Bernie Mac",
+                        "Steve Harvey",
+                        "Kevin Hart",
+                        "Harlem",
+                        "Michael Ealy",
+                        "Terrence Howard"
+                    ],
+                    "categoryId": "22",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en-US",
+                    "localized": {
+                        "title": "Meagan Good Talks Tyler Perry Pay, Divorce From DeVon Franklin, Jonathan Majors And Katt Williams",
+                        "description": "Multi-talented actress Meagan Good joins Shannon Sharpe at Club Shay Shay for a candid and gripping conversation. She opens up about her tumultuous journey growing up and navigating the entertainment industry. Meagan shares an intense story from her time on a Nickelodeon show, detailing how a fight escalated into a dangerous brawl, making her question her actions and seek peace.\n\nMeagan discusses facing racism at school and being unfairly targeted by teachers. She also shares the emotional impact of losing possessions given to her by her father, who had a background in the LAPD.\n\nReflecting on her acting career, Meagan talked about her early roles in the cult classic \"Friday\" and working with icons like Chris Tucker and Ice Cube. She also shared valuable advice from Michael Clarke Duncan about treating everyone on set with respect.\n\nDespite numerous challenges and tough choices, Meagan underscores the importance of authenticity and not compromising oneself for success. She highlights her resilience, the lessons she\u2019s learned, and the meaningful relationships she\u2019s built throughout her life and career.\n\nCelebrating 30 years in the business, Meagan expresses gratitude and hope for 30 more years, emphasizing the importance of love and support in her journey. She shares stories about her experiences as a young black actress in a predominantly white industry.\n\nMeagan also recounted facing intense pressures on set, including a difficult experience with a director that almost made her reconsider her acting career. This moment, however, reinforced her determination to succeed.\n\nThroughout the conversation, Meagan\u2019s resilience shines as she speaks about her mother\u2019s wisdom, God\u2019s guidance, and the significance of humility and confidence. She recounts her growth in the industry and her determination to be recognized for her talent.\n\nIn this interview Meagan also touches on her experiences with homeschooling due to her acting career, the guidance she received from industry veterans, and her decision to focus on movies over TV shows to explore diverse characters. Despite the adversities, Meagan\u2019s journey is a testament to her strength and the valuable lessons she\u2019s learned along the way.\n\nJoin Shannon Sharpe and Meagan Good in this heartfelt and inspiring conversation, celebrating her incredible career and the strength she\u2019s shown in overcoming obstacles and staying true to herself.\n\n#ClubShayShay\u200b #MeaganGood #johnathanmajors \n\nBuy LePortier: https://leportiercognac.com/products/shay_vsop_750ml/\n\nGet 50% off your first box of fresh, healthy food at TheFarmers Dog.com/SHAYSHAY\n\nSUBSCRIBE to get the latest Club Shay Shay content: https://www.youtube.com/c/ClubShayShay?sub_confirmation=1\nListen to the Club Shay Shay podcast on Apple Podcasts: https://podcasts.apple.com/us/podcast/club-shay-shay/id1531023690\nListen to the Club Shay Shay podcast on Spotify: https://open.spotify.com/show/060hDdnydsJyMi17TmvyAh?si=iuda1z7oTE-21ZYzwiUdhg&nd=1\n\nLike Club Shay Shay on Facebook: https://m.facebook.com/ClubShayShay/\nFollow Club Shay Shay on Twitter: https://x.com/clubshayshay?s=21&t=PF1soCgsTT_NEerDJm9Lfg\nFollow Club Shay Shay on Instagram: https://instagram.com/clubshayshay?igshid=MzRlODBiNWFlZA==\nFollow Shannon Sharpe on Twitter: https://x.com/shannonsharpe?s=21&t=PF1soCgsTT_NEerDJm9Lfg\nFollow Club Shay Shay on Tik Tok: https://www.tiktok.com/@clubshayshaypod?_t=8fJ79WZy2fb&_r=1\n\nAbout Club Shay Shay:\nClub Shay Shay is a weekly podcast hosted by Shannon Sharpe \u2013 3x Super Bowl champion, member of the Pro Football Hall of Fame and co-host of First Take on ESPN. Each week Shannon will sit down with athletes, celebrities and influencers to break down, analyze and discuss the latest headlines in sports, pop culture and everything in-between. Get on the VIP list at Club Shay Shay NOW and never miss an episode!\n\nMeagan Good | EP. 131\n\nLink of Ep. \nhttps://youtu.be/dXMlaD-kqDs\n\nClub Shay Shay\nhttps://www.youtube.com/c/ClubShayShay"
+                    },
+                    "defaultAudioLanguage": "en-US"
+                },
+                "contentDetails": {
+                    "duration": "PT1H17M11S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 1084822,
+                    "likeCount": 33295,
+                    "dislikeCount": null,
+                    "commentCount": 3813
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Entertainment",
+                        "https://en.wikipedia.org/wiki/Television_program"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/dXMlaD-kqDs\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": {
+                    "actualStartTime": "2024-07-10T16:00:07Z",
+                    "actualEndTime": "2024-07-10T17:19:16Z",
+                    "scheduledStartTime": "2024-07-10T16:00:00Z",
+                    "scheduledEndTime": null,
+                    "concurrentViewers": null,
+                    "activeLiveChatId": null
+                }
+            }
+        ],
+        "seenCount": 1,
+        "depths": [
+            0
+        ]
+    },
+    "8oRRZiRQxTs": {
+        "kind": "youtube#videoListResponse",
+        "etag": "5ovU5TFfz-9wLc7Dayo3H6ea8RQ",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "OzhzQYTT6ccuKCmVEIttxTO9tFs",
+                "id": "8oRRZiRQxTs",
+                "snippet": {
+                    "publishedAt": "2024-01-03T17:00:08Z",
+                    "channelId": "UCQoxJOkwaCgyzQtiuAIDcuw",
+                    "title": "Katt Williams Unleashed | CLUB SHAY SHAY",
+                    "description": "Buy LePortier: https://leportiercognac.com/products/shay_vsop_750ml/\n\n#clubshayshay \u200b #kattwilliams #comedy \n\nThe legendary Katt Williams, hailed by many as the greatest comedian alive, joins Shannon Sharpe at Club Shay Shay for an explosively candid conversation. Renowned as one of America's most exceptional entertainers, Katt fearlessly takes shots at fellow comedians like Rickey Smiley, Cedric the Entertainer, Steve Harvey and Kevin Hart. He opens up about his turbulent life, revealing his homelessness experience after moving out at 13 and shares the financial challenges he faced in kickstarting his comedy career. Also, Katt recalls what lead to his famous outburst on Wanda Smith's radio show and how he found himself staring down the barrel of a gun afterwards. Amidst laughter and revelations, Katt Williams pays homage to Ice Cube, giving him the flowers Katt feels he's deserved for a long time. The conversation turns philanthropic as Kat discusses giving back and helping up-and-coming comedians financially after successful shows. Katt delves into personal aspects, explaining why he's never been married and addressing the situations involving Taraji P. Henson, Nick Cannon, Jonathan Majors, and Kanye West. Katt reflects on the comedy landscape of a bygone era, shedding light on the dynamics within the Kings of Comedy and their negative sentiments toward Bernie Mac. This episode is a rollercoaster of humor and unfiltered truths showcasing Katt Williams in a light that goes beyond the stage.\n\nSUBSCRIBE to get the latest Club Shay Shay content: https://www.youtube.com/c/ClubShayShay?sub_confirmation=1\nListen to the Club Shay Shay podcast on Apple Podcasts: https://podcasts.apple.com/us/podcast/club-shay-shay/id1531023690\nListen to the Club Shay Shay podcast on Spotify: https://open.spotify.com/show/060hDdnydsJyMi17TmvyAh?si=iuda1z7oTE-21ZYzwiUdhg&nd=1\n\nLike Club Shay Shay on Facebook: https://m.facebook.com/ClubShayShay/\nFollow Club Shay Shay on Twitter: https://x.com/clubshayshay?s=21&t=PF1soCgsTT_NEerDJm9Lfg\nFollow Club Shay Shay on Instagram: https://instagram.com/clubshayshay?igshid=MzRlODBiNWFlZA==\nFollow Shannon Sharpe on Twitter: https://x.com/shannonsharpe?s=21&t=PF1soCgsTT_NEerDJm9Lfg\nFollow Club Shay Shay on Tik Tok: https://www.tiktok.com/@clubshayshaypod?_t=8fJ79WZy2fb&_r=1\n\nAbout Club Shay Shay:\nClub Shay Shay is a weekly podcast hosted by Shannon Sharpe \u2013 3x Super Bowl champion, member of the Pro Football Hall of Fame and co-host of First Take on ESPN. Each week Shannon will sit down with athletes, celebrities and influencers to break down, analyze and discuss the latest headlines in sports, pop culture and everything in-between. Get on the VIP list at Club Shay Shay NOW and never miss an episode!\n\nKatt Williams Unleashed | EP. 102\nhttps://youtu.be/8oRRZiRQxTs \n\nClub Shay Shay\nhttps://www.youtube.com/c/ClubShayShay",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/8oRRZiRQxTs/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/8oRRZiRQxTs/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/8oRRZiRQxTs/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/8oRRZiRQxTs/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/8oRRZiRQxTs/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Club Shay Shay",
+                    "tags": [
+                        "Club Shay Shay",
+                        "Club Shay Shay youtube",
+                        "Shannon Sharpe podcast",
+                        "Sharpe podcast",
+                        "Shannon podcast",
+                        "Club Shay Shay Shannon Sharpe",
+                        "Club Shay Shay podcast",
+                        "Shay Shay podcast",
+                        "Shay Shay",
+                        "Shannon Sharpe Club",
+                        "Nightcap",
+                        "Chad Ochocinco",
+                        "Chad Johnson",
+                        "Football",
+                        "NFL",
+                        "Basketball",
+                        "NBA",
+                        "Sports",
+                        "Shannon Sharpe",
+                        "Music",
+                        "Movies",
+                        "Comedian",
+                        "Rapper",
+                        "Actor",
+                        "Athlete",
+                        "Katt Williams",
+                        "Comedy",
+                        "Atlanta",
+                        "Steve Harvey",
+                        "Kevin Hart",
+                        "Nick Cannon",
+                        "Kanye West",
+                        "Kings of Comedy",
+                        "Stand up",
+                        "homeless",
+                        "ice cube",
+                        "music",
+                        "rap",
+                        "funny"
+                    ],
+                    "categoryId": "22",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": null,
+                    "localized": {
+                        "title": "Katt Williams Unleashed | CLUB SHAY SHAY",
+                        "description": "Buy LePortier: https://leportiercognac.com/products/shay_vsop_750ml/\n\n#clubshayshay \u200b #kattwilliams #comedy \n\nThe legendary Katt Williams, hailed by many as the greatest comedian alive, joins Shannon Sharpe at Club Shay Shay for an explosively candid conversation. Renowned as one of America's most exceptional entertainers, Katt fearlessly takes shots at fellow comedians like Rickey Smiley, Cedric the Entertainer, Steve Harvey and Kevin Hart. He opens up about his turbulent life, revealing his homelessness experience after moving out at 13 and shares the financial challenges he faced in kickstarting his comedy career. Also, Katt recalls what lead to his famous outburst on Wanda Smith's radio show and how he found himself staring down the barrel of a gun afterwards. Amidst laughter and revelations, Katt Williams pays homage to Ice Cube, giving him the flowers Katt feels he's deserved for a long time. The conversation turns philanthropic as Kat discusses giving back and helping up-and-coming comedians financially after successful shows. Katt delves into personal aspects, explaining why he's never been married and addressing the situations involving Taraji P. Henson, Nick Cannon, Jonathan Majors, and Kanye West. Katt reflects on the comedy landscape of a bygone era, shedding light on the dynamics within the Kings of Comedy and their negative sentiments toward Bernie Mac. This episode is a rollercoaster of humor and unfiltered truths showcasing Katt Williams in a light that goes beyond the stage.\n\nSUBSCRIBE to get the latest Club Shay Shay content: https://www.youtube.com/c/ClubShayShay?sub_confirmation=1\nListen to the Club Shay Shay podcast on Apple Podcasts: https://podcasts.apple.com/us/podcast/club-shay-shay/id1531023690\nListen to the Club Shay Shay podcast on Spotify: https://open.spotify.com/show/060hDdnydsJyMi17TmvyAh?si=iuda1z7oTE-21ZYzwiUdhg&nd=1\n\nLike Club Shay Shay on Facebook: https://m.facebook.com/ClubShayShay/\nFollow Club Shay Shay on Twitter: https://x.com/clubshayshay?s=21&t=PF1soCgsTT_NEerDJm9Lfg\nFollow Club Shay Shay on Instagram: https://instagram.com/clubshayshay?igshid=MzRlODBiNWFlZA==\nFollow Shannon Sharpe on Twitter: https://x.com/shannonsharpe?s=21&t=PF1soCgsTT_NEerDJm9Lfg\nFollow Club Shay Shay on Tik Tok: https://www.tiktok.com/@clubshayshaypod?_t=8fJ79WZy2fb&_r=1\n\nAbout Club Shay Shay:\nClub Shay Shay is a weekly podcast hosted by Shannon Sharpe \u2013 3x Super Bowl champion, member of the Pro Football Hall of Fame and co-host of First Take on ESPN. Each week Shannon will sit down with athletes, celebrities and influencers to break down, analyze and discuss the latest headlines in sports, pop culture and everything in-between. Get on the VIP list at Club Shay Shay NOW and never miss an episode!\n\nKatt Williams Unleashed | EP. 102\nhttps://youtu.be/8oRRZiRQxTs \n\nClub Shay Shay\nhttps://www.youtube.com/c/ClubShayShay"
+                    },
+                    "defaultAudioLanguage": null
+                },
+                "contentDetails": {
+                    "duration": "PT2H46M5S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 71854096,
+                    "likeCount": 1658681,
+                    "dislikeCount": null,
+                    "commentCount": 218235
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Entertainment",
+                        "https://en.wikipedia.org/wiki/Humour",
+                        "https://en.wikipedia.org/wiki/Television_program"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/8oRRZiRQxTs\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": {
+                    "actualStartTime": "2024-01-03T17:00:08Z",
+                    "actualEndTime": "2024-01-03T19:48:11Z",
+                    "scheduledStartTime": "2024-01-03T17:00:00Z",
+                    "scheduledEndTime": null,
+                    "concurrentViewers": null,
+                    "activeLiveChatId": null
+                }
+            }
+        ],
+        "seenCount": 3,
+        "depths": [
+            1,
+            3,
+            5
+        ]
+    },
+    "-Jsvu19Pe4U": {
+        "kind": "youtube#videoListResponse",
+        "etag": "En1TMSLbJb-ZgxfDvNHwcexusR8",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "8n-ekwn9iu9y9rxO5_pam9x6oh0",
+                "id": "-Jsvu19Pe4U",
+                "snippet": {
+                    "publishedAt": "2024-01-17T17:00:09Z",
+                    "channelId": "UCQoxJOkwaCgyzQtiuAIDcuw",
+                    "title": "Kountry Wayne Talks $20M From Social Media, Cheating, BBLs, Calls Out Jess Hilarious & Faizon Love",
+                    "description": "Kountry Wayne spills the beans to Shannon Sharpe on the wild ride that is his life during this episode of Club Shay Shay. With ten kids from five baby mamas, Kountry Wayne navigates the unpredictable waters of his unconventional family life, sharing tales of buying women Brazilian butt lifts only to find himself single shortly after. This no-holds-barred conversation touches on the timeless debate of who cheats more\u2014men or women\u2014adding a comedic spin to relationship dynamics. As Kountry Wayne unveils the dollars he's raked in through social media, the episode takes unexpected turns, including heartfelt and honest moments about his mom's death and the dubious days of drug dealing with his dad. To top it all off, Kountry Wayne also calls out fellow comedians Jess Hilarious and Faizon Love; channeling the spirit of the one and only Katt Williams. It's a laughter-filled journey through the unique life and perspective of Kountry Wayne.\n\n#ClubShayShay\u200b #kountrywayne #comedy \n\nSUBSCRIBE to get the latest Club Shay Shay content: https://www.youtube.com/c/ClubShayShay?sub_confirmation=1\nListen to the Club Shay Shay podcast on Apple Podcasts: https://podcasts.apple.com/us/podcast/club-shay-shay/id1531023690\nListen to the Club Shay Shay podcast on Spotify: https://open.spotify.com/show/060hDdnydsJyMi17TmvyAh?si=iuda1z7oTE-21ZYzwiUdhg&nd=1\n\nLike Club Shay Shay on Facebook: https://m.facebook.com/ClubShayShay/\nFollow Club Shay Shay on Twitter: https://x.com/clubshayshay?s=21&t=PF1soCgsTT_NEerDJm9Lfg\nFollow Club Shay Shay on Instagram: https://instagram.com/clubshayshay?igshid=MzRlODBiNWFlZA==\nFollow Shannon Sharpe on Twitter: https://x.com/shannonsharpe?s=21&t=PF1soCgsTT_NEerDJm9Lfg\nFollow Club Shay Shay on Tik Tok: https://www.tiktok.com/@clubshayshaypod?_t=8fJ79WZy2fb&_r=1\n\nAbout Club Shay Shay:\nClub Shay Shay is a weekly podcast hosted by Shannon Sharpe \u2013 3x Super Bowl champion, member of the Pro Football Hall of Fame and co-host of First Take on ESPN. Each week Shannon will sit down with athletes, celebrities and influencers to break down, analyze and discuss the latest headlines in sports, pop culture and everything in-between. Get on the VIP list at Club Shay Shay NOW and never miss an episode!\n\nKountry Wayne Talks $20M From Social Media, Cheating, BBLs, Calls Out Jess Hilarious & Faizon Love | EP. 103\nhttps://youtu.be/-Jsvu19Pe4U\n\nClub Shay Shay\nhttps://www.youtube.com/c/ClubShayShay",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/-Jsvu19Pe4U/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/-Jsvu19Pe4U/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/-Jsvu19Pe4U/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/-Jsvu19Pe4U/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/-Jsvu19Pe4U/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Club Shay Shay",
+                    "tags": [
+                        "Club Shay Shay",
+                        "Club Shay Shay youtube",
+                        "Shannon Sharpe podcast",
+                        "Sharpe podcast",
+                        "Shannon podcast",
+                        "Club Shay Shay Shannon Sharpe",
+                        "Club Shay Shay podcast",
+                        "Shay Shay podcast",
+                        "Shay Shay",
+                        "Shannon Sharpe Club",
+                        "Nightcap",
+                        "Chad Ochocinco",
+                        "Chad Johnson",
+                        "Football",
+                        "NFL",
+                        "Basketball",
+                        "NBA",
+                        "Sports",
+                        "Shannon Sharpe",
+                        "Music",
+                        "Movies",
+                        "Comedian",
+                        "Rapper",
+                        "Actor",
+                        "Athlete",
+                        "Kountry Wayne",
+                        "comedy",
+                        "stand up comedy",
+                        "Family Life",
+                        "Jess Hilarious",
+                        "Faizon Love",
+                        "BBL Stories",
+                        "katt williams",
+                        "cheating",
+                        "money",
+                        "baby momma",
+                        "funny"
+                    ],
+                    "categoryId": "22",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": null,
+                    "localized": {
+                        "title": "Kountry Wayne Talks $20M From Social Media, Cheating, BBLs, Calls Out Jess Hilarious & Faizon Love",
+                        "description": "Kountry Wayne spills the beans to Shannon Sharpe on the wild ride that is his life during this episode of Club Shay Shay. With ten kids from five baby mamas, Kountry Wayne navigates the unpredictable waters of his unconventional family life, sharing tales of buying women Brazilian butt lifts only to find himself single shortly after. This no-holds-barred conversation touches on the timeless debate of who cheats more\u2014men or women\u2014adding a comedic spin to relationship dynamics. As Kountry Wayne unveils the dollars he's raked in through social media, the episode takes unexpected turns, including heartfelt and honest moments about his mom's death and the dubious days of drug dealing with his dad. To top it all off, Kountry Wayne also calls out fellow comedians Jess Hilarious and Faizon Love; channeling the spirit of the one and only Katt Williams. It's a laughter-filled journey through the unique life and perspective of Kountry Wayne.\n\n#ClubShayShay\u200b #kountrywayne #comedy \n\nSUBSCRIBE to get the latest Club Shay Shay content: https://www.youtube.com/c/ClubShayShay?sub_confirmation=1\nListen to the Club Shay Shay podcast on Apple Podcasts: https://podcasts.apple.com/us/podcast/club-shay-shay/id1531023690\nListen to the Club Shay Shay podcast on Spotify: https://open.spotify.com/show/060hDdnydsJyMi17TmvyAh?si=iuda1z7oTE-21ZYzwiUdhg&nd=1\n\nLike Club Shay Shay on Facebook: https://m.facebook.com/ClubShayShay/\nFollow Club Shay Shay on Twitter: https://x.com/clubshayshay?s=21&t=PF1soCgsTT_NEerDJm9Lfg\nFollow Club Shay Shay on Instagram: https://instagram.com/clubshayshay?igshid=MzRlODBiNWFlZA==\nFollow Shannon Sharpe on Twitter: https://x.com/shannonsharpe?s=21&t=PF1soCgsTT_NEerDJm9Lfg\nFollow Club Shay Shay on Tik Tok: https://www.tiktok.com/@clubshayshaypod?_t=8fJ79WZy2fb&_r=1\n\nAbout Club Shay Shay:\nClub Shay Shay is a weekly podcast hosted by Shannon Sharpe \u2013 3x Super Bowl champion, member of the Pro Football Hall of Fame and co-host of First Take on ESPN. Each week Shannon will sit down with athletes, celebrities and influencers to break down, analyze and discuss the latest headlines in sports, pop culture and everything in-between. Get on the VIP list at Club Shay Shay NOW and never miss an episode!\n\nKountry Wayne Talks $20M From Social Media, Cheating, BBLs, Calls Out Jess Hilarious & Faizon Love | EP. 103\nhttps://youtu.be/-Jsvu19Pe4U\n\nClub Shay Shay\nhttps://www.youtube.com/c/ClubShayShay"
+                    },
+                    "defaultAudioLanguage": null
+                },
+                "contentDetails": {
+                    "duration": "PT2H28M46S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 7392579,
+                    "likeCount": 110824,
+                    "dislikeCount": null,
+                    "commentCount": 8269
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Entertainment"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/-Jsvu19Pe4U\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": {
+                    "actualStartTime": "2024-01-17T17:00:09Z",
+                    "actualEndTime": "2024-01-17T19:30:51Z",
+                    "scheduledStartTime": "2024-01-17T17:00:00Z",
+                    "scheduledEndTime": null,
+                    "concurrentViewers": null,
+                    "activeLiveChatId": null
+                }
+            }
+        ],
+        "seenCount": 1,
+        "depths": [
+            2
+        ]
+    },
+    "q1PVr6AeUT0": {
+        "kind": "youtube#videoListResponse",
+        "etag": "luZwvyR8E70Z1jEW-m9ii2KpPB8",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "wO6XJti986aT5RQiSirMe1CrQ_M",
+                "id": "q1PVr6AeUT0",
+                "snippet": {
+                    "publishedAt": "2024-02-07T17:00:09Z",
+                    "channelId": "UCQoxJOkwaCgyzQtiuAIDcuw",
+                    "title": "Mo'Nique on Hollywood | CLUB SHAY SHAY",
+                    "description": "Mo'Nique joins Shannon Sharpe at Club Shay Shay for a candid and uproarious conversation. First, Mo'Nique delves into the heated moment when Skip Bayless told Shannon to \"put his glasses back on,\" setting the tone with her bluntness and brutal honesty for a rollercoaster of an episode. Then, Mo'Nique shares poignant memories of her upbringing in Baltimore, drawing inspiration from the Jackson 5 and seeing a young Oprah\u2019s local daytime TV show. The revelations keep coming as she discusses Katt Williams' Club Shay Shay appearance, shedding light on the nature of truths that the public finds surprising. Mo'Nique then explains why the public's response to her actions differed significantly from the reception Taraji P. Henson received when they both voiced their concerns about Hollywood\u2019s financial disparities. Mo'Nique fearlessly confronts the industry challenges she's faced, including the complex dynamics with heavyweights like Oprah, Tyler Perry, and Kevin Hart. Amidst stories of her undeniable talent, Mo'Nique reveals hilarious anecdotes like being the \"best Popeyes drive-through worker of all time\" and how her comedy career was sparked by a dare from her brother. She shares uproarious tales from her experiences on the road with The Queens of Comedy and The Kings of Comedy. Mo'Nique offers an insider's perspective of those legendary tours with her signature humor and charm. With raw honesty, she recounts deeply personal experiences, from confronting her past family trauma to the tumultuous journey of settling her lawsuit with Netflix. Mo'Nique weighs in on Shaq's assertion that men shouldn't open up emotionally to women. Known for her unapologetic and insightful perspective, Mo'Nique delves into the nuances of gender dynamics, challenging societal norms with her trademark humor and wisdom. This episode is a rollercoaster of emotions, unfiltered truths, and, of course, hearty laughs. Don't miss the wisdom, wit, and wild tales shared by the legendary Mo'Nique on Club Shay Shay.\n\n#ClubShayShay\u200b #monique #comedy \n\nBuy LePortier: https://leportiercognac.com/products/shay_vsop_750ml/\n\nSUBSCRIBE to get the latest Club Shay Shay content: https://www.youtube.com/c/ClubShayShay?sub_confirmation=1\nListen to the Club Shay Shay podcast on Apple Podcasts: https://podcasts.apple.com/us/podcast/club-shay-shay/id1531023690\nListen to the Club Shay Shay podcast on Spotify: https://open.spotify.com/show/060hDdnydsJyMi17TmvyAh?si=iuda1z7oTE-21ZYzwiUdhg&nd=1\n\nLike Club Shay Shay on Facebook: https://m.facebook.com/ClubShayShay/\nFollow Club Shay Shay on Twitter: https://x.com/clubshayshay?s=21&t=PF1soCgsTT_NEerDJm9Lfg\nFollow Club Shay Shay on Instagram: https://instagram.com/clubshayshay?igshid=MzRlODBiNWFlZA==\nFollow Shannon Sharpe on Twitter: https://x.com/shannonsharpe?s=21&t=PF1soCgsTT_NEerDJm9Lfg\nFollow Club Shay Shay on Tik Tok: https://www.tiktok.com/@clubshayshaypod?_t=8fJ79WZy2fb&_r=1\n\nAbout Club Shay Shay:\nClub Shay Shay is a weekly podcast hosted by Shannon Sharpe \u2013 3x Super Bowl champion, member of the Pro Football Hall of Fame and co-host of First Take on ESPN. Each week Shannon will sit down with athletes, celebrities and influencers to break down, analyze and discuss the latest headlines in sports, pop culture and everything in-between. Get on the VIP list at Club Shay Shay NOW and never miss an episode!\n\nMo'Nique on Hollywood | EP. 108\nhttps://youtu.be/q1PVr6AeUT0\n\nClub Shay Shay\nhttps://www.youtube.com/c/ClubShayShay",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/q1PVr6AeUT0/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/q1PVr6AeUT0/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/q1PVr6AeUT0/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/q1PVr6AeUT0/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/q1PVr6AeUT0/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Club Shay Shay",
+                    "tags": [
+                        "Club Shay Shay",
+                        "Club Shay Shay youtube",
+                        "Shannon Sharpe podcast",
+                        "Sharpe podcast",
+                        "Shannon podcast",
+                        "Club Shay Shay Shannon Sharpe",
+                        "Club Shay Shay podcast",
+                        "Shay Shay podcast",
+                        "Shay Shay",
+                        "Shannon Sharpe Club",
+                        "Shannon Sharpe",
+                        "Movies",
+                        "Comedian",
+                        "Rapper",
+                        "Actor",
+                        "Behind the Scenes",
+                        "Mo'Nique",
+                        "Skip Bayless",
+                        "Taraji P. Henson",
+                        "Hollywood",
+                        "Oprah",
+                        "Baltimore",
+                        "Jackson 5",
+                        "Katt Williams",
+                        "Tyler Perry",
+                        "Kevin Hart",
+                        "Popeyes",
+                        "The Queens of Comedy",
+                        "The Kings of Comedy",
+                        "Netflix",
+                        "Shaq",
+                        "comedy",
+                        "oscars",
+                        "hollywood",
+                        "receipt"
+                    ],
+                    "categoryId": "22",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": null,
+                    "localized": {
+                        "title": "Mo'Nique on Hollywood | CLUB SHAY SHAY",
+                        "description": "Mo'Nique joins Shannon Sharpe at Club Shay Shay for a candid and uproarious conversation. First, Mo'Nique delves into the heated moment when Skip Bayless told Shannon to \"put his glasses back on,\" setting the tone with her bluntness and brutal honesty for a rollercoaster of an episode. Then, Mo'Nique shares poignant memories of her upbringing in Baltimore, drawing inspiration from the Jackson 5 and seeing a young Oprah\u2019s local daytime TV show. The revelations keep coming as she discusses Katt Williams' Club Shay Shay appearance, shedding light on the nature of truths that the public finds surprising. Mo'Nique then explains why the public's response to her actions differed significantly from the reception Taraji P. Henson received when they both voiced their concerns about Hollywood\u2019s financial disparities. Mo'Nique fearlessly confronts the industry challenges she's faced, including the complex dynamics with heavyweights like Oprah, Tyler Perry, and Kevin Hart. Amidst stories of her undeniable talent, Mo'Nique reveals hilarious anecdotes like being the \"best Popeyes drive-through worker of all time\" and how her comedy career was sparked by a dare from her brother. She shares uproarious tales from her experiences on the road with The Queens of Comedy and The Kings of Comedy. Mo'Nique offers an insider's perspective of those legendary tours with her signature humor and charm. With raw honesty, she recounts deeply personal experiences, from confronting her past family trauma to the tumultuous journey of settling her lawsuit with Netflix. Mo'Nique weighs in on Shaq's assertion that men shouldn't open up emotionally to women. Known for her unapologetic and insightful perspective, Mo'Nique delves into the nuances of gender dynamics, challenging societal norms with her trademark humor and wisdom. This episode is a rollercoaster of emotions, unfiltered truths, and, of course, hearty laughs. Don't miss the wisdom, wit, and wild tales shared by the legendary Mo'Nique on Club Shay Shay.\n\n#ClubShayShay\u200b #monique #comedy \n\nBuy LePortier: https://leportiercognac.com/products/shay_vsop_750ml/\n\nSUBSCRIBE to get the latest Club Shay Shay content: https://www.youtube.com/c/ClubShayShay?sub_confirmation=1\nListen to the Club Shay Shay podcast on Apple Podcasts: https://podcasts.apple.com/us/podcast/club-shay-shay/id1531023690\nListen to the Club Shay Shay podcast on Spotify: https://open.spotify.com/show/060hDdnydsJyMi17TmvyAh?si=iuda1z7oTE-21ZYzwiUdhg&nd=1\n\nLike Club Shay Shay on Facebook: https://m.facebook.com/ClubShayShay/\nFollow Club Shay Shay on Twitter: https://x.com/clubshayshay?s=21&t=PF1soCgsTT_NEerDJm9Lfg\nFollow Club Shay Shay on Instagram: https://instagram.com/clubshayshay?igshid=MzRlODBiNWFlZA==\nFollow Shannon Sharpe on Twitter: https://x.com/shannonsharpe?s=21&t=PF1soCgsTT_NEerDJm9Lfg\nFollow Club Shay Shay on Tik Tok: https://www.tiktok.com/@clubshayshaypod?_t=8fJ79WZy2fb&_r=1\n\nAbout Club Shay Shay:\nClub Shay Shay is a weekly podcast hosted by Shannon Sharpe \u2013 3x Super Bowl champion, member of the Pro Football Hall of Fame and co-host of First Take on ESPN. Each week Shannon will sit down with athletes, celebrities and influencers to break down, analyze and discuss the latest headlines in sports, pop culture and everything in-between. Get on the VIP list at Club Shay Shay NOW and never miss an episode!\n\nMo'Nique on Hollywood | EP. 108\nhttps://youtu.be/q1PVr6AeUT0\n\nClub Shay Shay\nhttps://www.youtube.com/c/ClubShayShay"
+                    },
+                    "defaultAudioLanguage": null
+                },
+                "contentDetails": {
+                    "duration": "PT2H55M21S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 15527721,
+                    "likeCount": 436047,
+                    "dislikeCount": null,
+                    "commentCount": 66020
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Entertainment",
+                        "https://en.wikipedia.org/wiki/Humour",
+                        "https://en.wikipedia.org/wiki/Television_program"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/q1PVr6AeUT0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": {
+                    "actualStartTime": "2024-02-07T17:00:09Z",
+                    "actualEndTime": "2024-02-07T19:57:26Z",
+                    "scheduledStartTime": "2024-02-07T17:00:00Z",
+                    "scheduledEndTime": null,
+                    "concurrentViewers": null,
+                    "activeLiveChatId": null
+                }
+            }
+        ],
+        "seenCount": 1,
+        "depths": [
+            4
+        ]
+    },
+    "yqH9Vb72M_E": {
+        "kind": "youtube#videoListResponse",
+        "etag": "K9lv2blCOlQVCMAnukn6hyia3zw",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "ZOGA4maHad2pkotgPtc_bwfDypY",
+                "id": "yqH9Vb72M_E",
+                "snippet": {
+                    "publishedAt": "2024-06-01T15:00:07Z",
+                    "channelId": "UCqISR0F9-nCth-V2r4Qy75Q",
+                    "title": "Common & Pete Rock On Nas vs Biggie, Ye's Genius, Drake & Kendrick, New Album & More | Drink Champs",
+                    "description": "In this episode of #DrinkChamps, hip hop legends #Common and #PeteRock sit down with N.O.R.E. and DJ EFN to discuss their new collaborative album and the importance of celebrating the culture. They dive into their creative process, bringing the energy of the 90s into the present day, and share stories about battling in hip hop. Common speaks on Ice Cube dissing him, while also addressing Drake sending subliminal shots his way. Pete Rock opens up about his falloff with CL Smooth. The duo also weighs in on the Kendrick Lamar vs. Drake and Nas vs. Biggie debates, while reflecting on Ye's comparisons between Common and Talib Kweli. From Chicago to New York, Common and Pete Rock keep it real about staying true to the essence of hip hop.\n\n-Find REVOLT on TV here: https://revolt.tv/providers\n\nStay connected with REVOLT here:\n\nDownload our app for more exclusive content!\nhttps://revolt.onelink.me/7Lb8/e6zon0g1\n\n+ Subscribe now: http://bit.ly/REVOLT_Subscribe_Now\n\nWebsite: http://www.revolt.tv/?utm_source=YouT... (Surf)\n\nInstagram: http://Instagram.com/REVOLTTV (Follow)\n \nTwitter: http://twitter.com/REVOLTTV (Follow)\n\nFacebook: http://www.facebook.com/REVOLT (Like)\n\nText us! Someone from the squad will text you back. https://my.community.com/revolt\n\nSnapchat: Revolt.TV (Add)\n\nTikTok: REVOLT\n\nAbout REVOLT :\n\nLaunched by Sean \"Diddy\" Combs, REVOLT.TV is #1 destination in hip hop. Focused on expertly curating the best of the best in music and engaging youth in social conversation, the multi-genre, multi-platform network offers breaking music news, videos, artist interviews, exclusive performances, and original programming. Artists REVOLT.TV covers include: Joe Budden, Drake, Chance the Rapper, Jay-Z, French Montana, Lil Wayne, Puff Daddy, Diddy, Future, Rick Ross, Remy Ma, Nicki Minaj, Beyonce, Rihanna, Lil Yachty, Kendrick Lamar, Kanye West, Solange, and many more.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/yqH9Vb72M_E/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/yqH9Vb72M_E/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/yqH9Vb72M_E/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/yqH9Vb72M_E/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/yqH9Vb72M_E/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "REVOLT",
+                    "tags": [
+                        "Common",
+                        "Pete Rock",
+                        "hip hop",
+                        "rap",
+                        "90s hip hop",
+                        "Nas",
+                        "Biggie",
+                        "Kendrick Lamar",
+                        "Drake",
+                        "Chicago hip hop",
+                        "New York hip hop",
+                        "DJ Premier",
+                        "Kanye West",
+                        "J Dilla",
+                        "Scarface",
+                        "Ice Cube",
+                        "MC battles",
+                        "hip hop culture",
+                        "Drink Champs",
+                        "N.O.R.E.",
+                        "DJ EFN",
+                        "collaborative album",
+                        "Ice Cube diss",
+                        "Drake subliminal shots",
+                        "CL Smooth falloff",
+                        "Talib Kweli comparisons"
+                    ],
+                    "categoryId": "10",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en-US",
+                    "localized": {
+                        "title": "Common & Pete Rock On Nas vs Biggie, Ye's Genius, Drake & Kendrick, New Album & More | Drink Champs",
+                        "description": "In this episode of #DrinkChamps, hip hop legends #Common and #PeteRock sit down with N.O.R.E. and DJ EFN to discuss their new collaborative album and the importance of celebrating the culture. They dive into their creative process, bringing the energy of the 90s into the present day, and share stories about battling in hip hop. Common speaks on Ice Cube dissing him, while also addressing Drake sending subliminal shots his way. Pete Rock opens up about his falloff with CL Smooth. The duo also weighs in on the Kendrick Lamar vs. Drake and Nas vs. Biggie debates, while reflecting on Ye's comparisons between Common and Talib Kweli. From Chicago to New York, Common and Pete Rock keep it real about staying true to the essence of hip hop.\n\n-Find REVOLT on TV here: https://revolt.tv/providers\n\nStay connected with REVOLT here:\n\nDownload our app for more exclusive content!\nhttps://revolt.onelink.me/7Lb8/e6zon0g1\n\n+ Subscribe now: http://bit.ly/REVOLT_Subscribe_Now\n\nWebsite: http://www.revolt.tv/?utm_source=YouT... (Surf)\n\nInstagram: http://Instagram.com/REVOLTTV (Follow)\n \nTwitter: http://twitter.com/REVOLTTV (Follow)\n\nFacebook: http://www.facebook.com/REVOLT (Like)\n\nText us! Someone from the squad will text you back. https://my.community.com/revolt\n\nSnapchat: Revolt.TV (Add)\n\nTikTok: REVOLT\n\nAbout REVOLT :\n\nLaunched by Sean \"Diddy\" Combs, REVOLT.TV is #1 destination in hip hop. Focused on expertly curating the best of the best in music and engaging youth in social conversation, the multi-genre, multi-platform network offers breaking music news, videos, artist interviews, exclusive performances, and original programming. Artists REVOLT.TV covers include: Joe Budden, Drake, Chance the Rapper, Jay-Z, French Montana, Lil Wayne, Puff Daddy, Diddy, Future, Rick Ross, Remy Ma, Nicki Minaj, Beyonce, Rihanna, Lil Yachty, Kendrick Lamar, Kanye West, Solange, and many more."
+                    },
+                    "defaultAudioLanguage": "en-US"
+                },
+                "contentDetails": {
+                    "duration": "PT3H53M54S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 1018269,
+                    "likeCount": 9725,
+                    "dislikeCount": null,
+                    "commentCount": 1783
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Hip_hop_music",
+                        "https://en.wikipedia.org/wiki/Music"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/yqH9Vb72M_E\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": {
+                    "actualStartTime": "2024-06-01T15:00:07Z",
+                    "actualEndTime": "2024-06-01T18:56:00Z",
+                    "scheduledStartTime": "2024-06-01T15:00:00Z",
+                    "scheduledEndTime": null,
+                    "concurrentViewers": null,
+                    "activeLiveChatId": null
+                }
+            }
+        ],
+        "seenCount": 1,
+        "depths": [
+            6
+        ]
+    },
+    "bNYh7m8akDg": {
+        "kind": "youtube#videoListResponse",
+        "etag": "jqIvnbw6NbQUgju6OB4k7QJtmrA",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "1OZSag4X45akKIS3wxpzWkBf2eg",
+                "id": "bNYh7m8akDg",
+                "snippet": {
+                    "publishedAt": "2023-11-04T15:00:08Z",
+                    "channelId": "UCqISR0F9-nCth-V2r4Qy75Q",
+                    "title": "M.O.P. On Their Come Up, Legacy, Untold Stories, Jay-Z, DJ Premier, G-Unit & More | Drink Champs",
+                    "description": "In this episode of #DrinkChamps, legendary hip hop duo M.O.P. stop by to talk with N.O.R.E and DJ EFN. They take a walk down memory lane, reflecting on their come up in Brownsville, Brooklyn in the 90s and how they met and formed their iconic partnership. The duo gets candid about the struggles and obstacles they faced early on as underground artists trying to break through commercially while staying true to their signature sound. They share stories about collaborating with other New York hip hop legends throughout their career. M.O.P. also discusses the keys to their longevity and how they've managed to continue thriving after 30 years in the game. Tune in to hear the highs and lows of M.O.P.'s journey and their impact on hip hop history.\n\nFind REVOLT on TV here: https://revolt.tv/providers\n\nStay connected with REVOLT here: \n\nDownload our app for more exclusive content!\nhttps://revolt.onelink.me/7Lb8/e6zon0g1\n\n+ Subscribe now: http://bit.ly/REVOLT_Subscribe_Now\n\nWebsite: http://www.revolt.tv/?utm_source=YouTube&utm_medium=Organic_Referral (Surf) \n\nInstagram: http://Instagram.com/REVOLTTV (Follow) \n\nTwitter: http://twitter.com/REVOLTTV (Follow) \n\nFacebook: http://www.facebook.com/REVOLT (Like) \n\nText us! Someone from the squad will text you back. https://my.community.com/revolt\n\nSnapchat: Revolt.TV (Add)\n\nTikTok: REVOLT\n\nAbout REVOLT :\n\nLaunched by Sean \"Diddy\" Combs, REVOLT.TV is #1 destination in hip hop. Focused on expertly curating the best of the best in music and engaging youth in social conversation, the multi-genre, multi-platform network offers breaking music news, videos, artist interviews, exclusive performances, and original programming. Artists REVOLT.TV covers include: Joe Budden, Drake, Chance the Rapper, Jay-Z, French Montana, Lil Wayne, Puff Daddy, Diddy, Future, Rick Ross, Remy Ma, Nicki Minaj, Beyonce, Rihanna, Lil Yachty, Kendrick Lamar, Kanye West, Solange, and many more.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/bNYh7m8akDg/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/bNYh7m8akDg/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/bNYh7m8akDg/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/bNYh7m8akDg/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/bNYh7m8akDg/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "REVOLT",
+                    "tags": [
+                        "REVOLT",
+                        "TV",
+                        "music",
+                        "rap",
+                        "r&b",
+                        "hip hop",
+                        "Hip Hop",
+                        "Rap",
+                        "Music",
+                        "MOP",
+                        "Brownsville",
+                        "Brooklyn",
+                        "New York",
+                        "NYC",
+                        "Underground Hip Hop",
+                        "Hardcore Hip Hop",
+                        "Hip Hop Duos",
+                        "Loyalty",
+                        "Friendship",
+                        "Collaborations",
+                        "Travel"
+                    ],
+                    "categoryId": "10",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "M.O.P. On Their Come Up, Legacy, Untold Stories, Jay-Z, DJ Premier, G-Unit & More | Drink Champs",
+                        "description": "In this episode of #DrinkChamps, legendary hip hop duo M.O.P. stop by to talk with N.O.R.E and DJ EFN. They take a walk down memory lane, reflecting on their come up in Brownsville, Brooklyn in the 90s and how they met and formed their iconic partnership. The duo gets candid about the struggles and obstacles they faced early on as underground artists trying to break through commercially while staying true to their signature sound. They share stories about collaborating with other New York hip hop legends throughout their career. M.O.P. also discusses the keys to their longevity and how they've managed to continue thriving after 30 years in the game. Tune in to hear the highs and lows of M.O.P.'s journey and their impact on hip hop history.\n\nFind REVOLT on TV here: https://revolt.tv/providers\n\nStay connected with REVOLT here: \n\nDownload our app for more exclusive content!\nhttps://revolt.onelink.me/7Lb8/e6zon0g1\n\n+ Subscribe now: http://bit.ly/REVOLT_Subscribe_Now\n\nWebsite: http://www.revolt.tv/?utm_source=YouTube&utm_medium=Organic_Referral (Surf) \n\nInstagram: http://Instagram.com/REVOLTTV (Follow) \n\nTwitter: http://twitter.com/REVOLTTV (Follow) \n\nFacebook: http://www.facebook.com/REVOLT (Like) \n\nText us! Someone from the squad will text you back. https://my.community.com/revolt\n\nSnapchat: Revolt.TV (Add)\n\nTikTok: REVOLT\n\nAbout REVOLT :\n\nLaunched by Sean \"Diddy\" Combs, REVOLT.TV is #1 destination in hip hop. Focused on expertly curating the best of the best in music and engaging youth in social conversation, the multi-genre, multi-platform network offers breaking music news, videos, artist interviews, exclusive performances, and original programming. Artists REVOLT.TV covers include: Joe Budden, Drake, Chance the Rapper, Jay-Z, French Montana, Lil Wayne, Puff Daddy, Diddy, Future, Rick Ross, Remy Ma, Nicki Minaj, Beyonce, Rihanna, Lil Yachty, Kendrick Lamar, Kanye West, Solange, and many more."
+                    },
+                    "defaultAudioLanguage": "en"
+                },
+                "contentDetails": {
+                    "duration": "PT3H31M13S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": false,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 1796882,
+                    "likeCount": 11489,
+                    "dislikeCount": null,
+                    "commentCount": 1982
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Hip_hop_music",
+                        "https://en.wikipedia.org/wiki/Music"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/bNYh7m8akDg\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": {
+                    "actualStartTime": "2023-11-04T15:00:08Z",
+                    "actualEndTime": "2023-11-04T18:33:19Z",
+                    "scheduledStartTime": "2023-11-04T15:00:00Z",
+                    "scheduledEndTime": null,
+                    "concurrentViewers": null,
+                    "activeLiveChatId": null
+                }
+            }
+        ],
+        "seenCount": 1,
+        "depths": [
+            7
+        ]
+    },
+    "YUpbzsmaELU": {
+        "kind": "youtube#videoListResponse",
+        "etag": "87seUrzuoM-2jld-wSH5MT8lnd4",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "YIEqBAIUpNk9m1uIyj1RAvffDEs",
+                "id": "YUpbzsmaELU",
+                "snippet": {
+                    "publishedAt": "2020-08-22T14:00:11Z",
+                    "channelId": "UCqISR0F9-nCth-V2r4Qy75Q",
+                    "title": "Dave East On Nas, 'Karma 3,' Playing Against Kevin Durant, James Harden & More | Drink Champs",
+                    "description": "On an all new episode of \"Drink Champs,\" N.O.R.E and DJ EFN chop it up with the ultra talented Dave East! \n\nDave shares his origin story, his come up and the story of how Nas heard his music for the first time! The rapper also discusses his basketball journey, playing against future MVP\u2019s Kevin Durant, James Harden, etc. Dave even talks acting, loyalty, and much more.\n\nDave and NORE also play \u201cWho Can You Call?\u201d as they call up legendary artists like Nas, Snoop Dogg, Mary J. Blige and more via FaceTime. Lots of great stories in this episode that you don\u2019t want to miss! #DrinkChamps #DaveEast #Nas\n\nFind REVOLT on TV here: https://revolt.tv/request-revolt\n\nStay connected with REVOLT.TV here: \n\n+ Subscribe now: http://bit.ly/REVOLT_Subscribe_Now\n\nWebsite: http://REVOLT.TV (Surf) \n\nInstagram: http://Instagram.com/REVOLTTV (Follow) \n\nTwitter: http://twitter.com/REVOLTTV (Follow) \n\nFacebook: http://www.facebook.com/REVOLTTV (Like) \n\nSnapchat: Revolt.TV (Add)\n\nAbout REVOLT.TV :\n\nLaunched by Sean \"Diddy\" Combs, REVOLT.TV is #1 destination in hip hop. Focused on expertly curating the best of the best in music and engaging youth in social conversation, the multi-genre, multi-platform network offers breaking music news, videos, artist interviews, exclusive performances, and original programming. Artists REVOLT.TV covers include: Joe Budden, Drake, Chance the Rapper, Jay-Z, French Montana, Lil Wayne, Puff Daddy, Diddy, Future, Rick Ross, Remy Ma, Nicki Minaj, Beyonce, Rihanna, Lil Yachty, Kendrick Lamar, Kanye West, Solange, and many more.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/YUpbzsmaELU/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/YUpbzsmaELU/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/YUpbzsmaELU/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/YUpbzsmaELU/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/YUpbzsmaELU/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "REVOLT",
+                    "tags": [
+                        "REVOLT",
+                        "TV",
+                        "music",
+                        "rap",
+                        "r&b",
+                        "hip hop",
+                        "Nas",
+                        "Dave East",
+                        "The Drink Champs",
+                        "Karma 3",
+                        "Nipsey Hussle",
+                        "James Harden",
+                        "Kevin Durant",
+                        "Crips",
+                        "Gang Culture",
+                        "Interview",
+                        "Harlem",
+                        "Rolling 60s"
+                    ],
+                    "categoryId": "10",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": null,
+                    "localized": {
+                        "title": "Dave East On Nas, 'Karma 3,' Playing Against Kevin Durant, James Harden & More | Drink Champs",
+                        "description": "On an all new episode of \"Drink Champs,\" N.O.R.E and DJ EFN chop it up with the ultra talented Dave East! \n\nDave shares his origin story, his come up and the story of how Nas heard his music for the first time! The rapper also discusses his basketball journey, playing against future MVP\u2019s Kevin Durant, James Harden, etc. Dave even talks acting, loyalty, and much more.\n\nDave and NORE also play \u201cWho Can You Call?\u201d as they call up legendary artists like Nas, Snoop Dogg, Mary J. Blige and more via FaceTime. Lots of great stories in this episode that you don\u2019t want to miss! #DrinkChamps #DaveEast #Nas\n\nFind REVOLT on TV here: https://revolt.tv/request-revolt\n\nStay connected with REVOLT.TV here: \n\n+ Subscribe now: http://bit.ly/REVOLT_Subscribe_Now\n\nWebsite: http://REVOLT.TV (Surf) \n\nInstagram: http://Instagram.com/REVOLTTV (Follow) \n\nTwitter: http://twitter.com/REVOLTTV (Follow) \n\nFacebook: http://www.facebook.com/REVOLTTV (Like) \n\nSnapchat: Revolt.TV (Add)\n\nAbout REVOLT.TV :\n\nLaunched by Sean \"Diddy\" Combs, REVOLT.TV is #1 destination in hip hop. Focused on expertly curating the best of the best in music and engaging youth in social conversation, the multi-genre, multi-platform network offers breaking music news, videos, artist interviews, exclusive performances, and original programming. Artists REVOLT.TV covers include: Joe Budden, Drake, Chance the Rapper, Jay-Z, French Montana, Lil Wayne, Puff Daddy, Diddy, Future, Rick Ross, Remy Ma, Nicki Minaj, Beyonce, Rihanna, Lil Yachty, Kendrick Lamar, Kanye West, Solange, and many more."
+                    },
+                    "defaultAudioLanguage": "en"
+                },
+                "contentDetails": {
+                    "duration": "PT3H39M39S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": false,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 1820050,
+                    "likeCount": 12117,
+                    "dislikeCount": null,
+                    "commentCount": 1892
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Hip_hop_music",
+                        "https://en.wikipedia.org/wiki/Sport",
+                        "https://en.wikipedia.org/wiki/Television_program"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/YUpbzsmaELU\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": {
+                    "actualStartTime": "2020-08-22T14:00:11Z",
+                    "actualEndTime": "2020-08-22T17:41:46Z",
+                    "scheduledStartTime": "2020-08-22T14:00:00Z",
+                    "scheduledEndTime": null,
+                    "concurrentViewers": null,
+                    "activeLiveChatId": null
+                }
+            }
+        ],
+        "seenCount": 1,
+        "depths": [
+            8
+        ]
+    },
+    "Pq_k2dlr5A0": {
+        "kind": "youtube#videoListResponse",
+        "etag": "r1LHNs0p-wmH0y3kD4Uf77PZnCY",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "8ida8kba3b2MMXwUmNGgCWoMOlQ",
+                "id": "Pq_k2dlr5A0",
+                "snippet": {
+                    "publishedAt": "2022-04-21T04:00:14Z",
+                    "channelId": "UCqISR0F9-nCth-V2r4Qy75Q",
+                    "title": "Cypress Hill On Hip Hop & The Cannabis Industry, Their Careers & More | Drink Champs",
+                    "description": "#CypressHill joins the #DrinkChamps crew for a special #420 episode!\n\nBReal, Sen Dog, DJ Muggs and Eric Bobo of Cypress Hill all join us for an incredible episode. Cypress Hill shares their journey as they share stories about creating legendary music, their iconic performances and much more! \n\nCypress Hill shares the origin story of one of their hit songs \u201cHow I Could Just Kill a Man\u201d and much much more!  \n\nLots of great stories that you don\u2019t want to miss!!\n\nMake some noise for Cypress Hill!!! \ud83d\udc90\ud83d\udc90\ud83d\udc90\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\n\nFind REVOLT on TV here: https://revolt.tv/providers\n\nStay connected with REVOLT here: \n\nDownload our app for more exclusive content!\niOS: https://apps.apple.com/us/app/revolt-tv/id863492077\nAndroid: https://play.google.com/store/apps/details?id=com.zype.revolt\n\n+ Subscribe now: http://bit.ly/REVOLT_Subscribe_Now\n\nWebsite: http://www.revolt.tv/?utm_source=YouTube&utm_medium=Organic_Referral (Surf) \n\nInstagram: http://Instagram.com/REVOLTTV (Follow) \n\nTwitter: http://twitter.com/REVOLTTV (Follow) \n\nFacebook: http://www.facebook.com/REVOLT (Like) \n\nText Us! (404) 737-1393\n\nSnapchat: Revolt.TV (Add)\n\nTikTok: REVOLT\n\nAbout REVOLT :\n\nLaunched by Sean \"Diddy\" Combs, REVOLT.TV is #1 destination in hip hop. Focused on expertly curating the best of the best in music and engaging youth in social conversation, the multi-genre, multi-platform network offers breaking music news, videos, artist interviews, exclusive performances, and original programming. Artists REVOLT.TV covers include: Joe Budden, Drake, Chance the Rapper, Jay-Z, French Montana, Lil Wayne, Puff Daddy, Diddy, Future, Rick Ross, Remy Ma, Nicki Minaj, Beyonce, Rihanna, Lil Yachty, Kendrick Lamar, Kanye West, Solange, and many more.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Pq_k2dlr5A0/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Pq_k2dlr5A0/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Pq_k2dlr5A0/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/Pq_k2dlr5A0/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/Pq_k2dlr5A0/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "REVOLT",
+                    "tags": [
+                        "REVOLT",
+                        "TV",
+                        "music",
+                        "rap",
+                        "r&b",
+                        "hip hop",
+                        "Drink Champs",
+                        "Cypress Hill",
+                        "420",
+                        "weed",
+                        "cannabis",
+                        "cannabis industry",
+                        "marijuana",
+                        "smoking weed",
+                        "west coast rap",
+                        "interview",
+                        "podcast",
+                        "N.O.R.E.",
+                        "DJ EFN",
+                        "Verzuz"
+                    ],
+                    "categoryId": "10",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Cypress Hill On Hip Hop & The Cannabis Industry, Their Careers & More | Drink Champs",
+                        "description": "#CypressHill joins the #DrinkChamps crew for a special #420 episode!\n\nBReal, Sen Dog, DJ Muggs and Eric Bobo of Cypress Hill all join us for an incredible episode. Cypress Hill shares their journey as they share stories about creating legendary music, their iconic performances and much more! \n\nCypress Hill shares the origin story of one of their hit songs \u201cHow I Could Just Kill a Man\u201d and much much more!  \n\nLots of great stories that you don\u2019t want to miss!!\n\nMake some noise for Cypress Hill!!! \ud83d\udc90\ud83d\udc90\ud83d\udc90\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\n\nFind REVOLT on TV here: https://revolt.tv/providers\n\nStay connected with REVOLT here: \n\nDownload our app for more exclusive content!\niOS: https://apps.apple.com/us/app/revolt-tv/id863492077\nAndroid: https://play.google.com/store/apps/details?id=com.zype.revolt\n\n+ Subscribe now: http://bit.ly/REVOLT_Subscribe_Now\n\nWebsite: http://www.revolt.tv/?utm_source=YouTube&utm_medium=Organic_Referral (Surf) \n\nInstagram: http://Instagram.com/REVOLTTV (Follow) \n\nTwitter: http://twitter.com/REVOLTTV (Follow) \n\nFacebook: http://www.facebook.com/REVOLT (Like) \n\nText Us! (404) 737-1393\n\nSnapchat: Revolt.TV (Add)\n\nTikTok: REVOLT\n\nAbout REVOLT :\n\nLaunched by Sean \"Diddy\" Combs, REVOLT.TV is #1 destination in hip hop. Focused on expertly curating the best of the best in music and engaging youth in social conversation, the multi-genre, multi-platform network offers breaking music news, videos, artist interviews, exclusive performances, and original programming. Artists REVOLT.TV covers include: Joe Budden, Drake, Chance the Rapper, Jay-Z, French Montana, Lil Wayne, Puff Daddy, Diddy, Future, Rick Ross, Remy Ma, Nicki Minaj, Beyonce, Rihanna, Lil Yachty, Kendrick Lamar, Kanye West, Solange, and many more."
+                    },
+                    "defaultAudioLanguage": "en"
+                },
+                "contentDetails": {
+                    "duration": "PT3H50M22S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": false,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 1432689,
+                    "likeCount": 10067,
+                    "dislikeCount": null,
+                    "commentCount": 1341
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Entertainment",
+                        "https://en.wikipedia.org/wiki/Hip_hop_music",
+                        "https://en.wikipedia.org/wiki/Television_program"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/Pq_k2dlr5A0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": {
+                    "actualStartTime": "2022-04-21T04:00:14Z",
+                    "actualEndTime": "2022-04-21T07:52:27Z",
+                    "scheduledStartTime": "2022-04-21T04:00:00Z",
+                    "scheduledEndTime": null,
+                    "concurrentViewers": null,
+                    "activeLiveChatId": null
+                }
+            }
+        ],
+        "seenCount": 1,
+        "depths": [
+            9
+        ]
+    }
+}
