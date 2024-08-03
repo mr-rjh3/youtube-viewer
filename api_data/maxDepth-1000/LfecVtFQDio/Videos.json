@@ -1,0 +1,3107 @@
+{
+    "LfecVtFQDio": {
+        "kind": "youtube#videoListResponse",
+        "etag": "_xj7L1Aqn1sgseLALQ2NwgLjTjA",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "OsDlkTgA9S6SDE8pcsj7WjFAEOc",
+                "id": "LfecVtFQDio",
+                "snippet": {
+                    "publishedAt": "2024-07-08T14:55:06Z",
+                    "channelId": "UCT4wAMwETXqDf-U_DVuqabA",
+                    "title": "College Football 25 | Gameplay First Look",
+                    "description": "Your Exclusive first look at College Football 25 gameplay, featuring cover athlete Donovan Edwards and @BordeauxYT. \n\nBring Glory Home. Pre-order EA SPORTS College Football 25 today \ud83d\udc49 http://x.ea.com/80629\n \nIn EA SPORTS College Football 25 for PlayStation5 and Xbox Series X|S, experience explosive gameplay variety across 134 FBS schools and immerse yourself in the iconic atmospheres of college football as you chase college greatness.\n\nIntroducing the MVP Bundle, including EA SPORTS College Football 25, Madden 25, and bonus rewards to help you make game day every day.  \n\nSubscribe and follow all the EA SPORTS College Football 25 social channels \ud83d\udc49 linktr.ee/easportscollege",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/LfecVtFQDio/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/LfecVtFQDio/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/LfecVtFQDio/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/LfecVtFQDio/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/LfecVtFQDio/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "EA SPORTS College",
+                    "tags": [
+                        "college football",
+                        "college football 25",
+                        "college football 25 trailer",
+                        "college official",
+                        "college football gameplay",
+                        "college football reveal",
+                        "cfb",
+                        "cfb 25",
+                        "cfb 25 trailer",
+                        "cfb 25 gameplay",
+                        "cfb 25 footage",
+                        "cfb 25 leak",
+                        "college football 25 game",
+                        "ea sports",
+                        "ea sports cfb",
+                        "college ps5",
+                        "college xbox",
+                        "ncaa 25",
+                        "college football 25 tournament",
+                        "college football esports",
+                        "college football 25 plays",
+                        "donovan edwards",
+                        "bordeaux"
+                    ],
+                    "categoryId": "20",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": null,
+                    "localized": {
+                        "title": "College Football 25 | Gameplay First Look",
+                        "description": "Your Exclusive first look at College Football 25 gameplay, featuring cover athlete Donovan Edwards and @BordeauxYT. \n\nBring Glory Home. Pre-order EA SPORTS College Football 25 today \ud83d\udc49 http://x.ea.com/80629\n \nIn EA SPORTS College Football 25 for PlayStation5 and Xbox Series X|S, experience explosive gameplay variety across 134 FBS schools and immerse yourself in the iconic atmospheres of college football as you chase college greatness.\n\nIntroducing the MVP Bundle, including EA SPORTS College Football 25, Madden 25, and bonus rewards to help you make game day every day.  \n\nSubscribe and follow all the EA SPORTS College Football 25 social channels \ud83d\udc49 linktr.ee/easportscollege"
+                    },
+                    "defaultAudioLanguage": null
+                },
+                "contentDetails": {
+                    "duration": "PT21M5S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 2555835,
+                    "likeCount": 58717,
+                    "dislikeCount": null,
+                    "commentCount": 6685
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Action_game",
+                        "https://en.wikipedia.org/wiki/Sports_game",
+                        "https://en.wikipedia.org/wiki/Strategy_video_game",
+                        "https://en.wikipedia.org/wiki/Video_game_culture"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/LfecVtFQDio\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": {
+                    "actualStartTime": "2024-07-08T14:55:06Z",
+                    "actualEndTime": "2024-07-08T15:18:10Z",
+                    "scheduledStartTime": "2024-07-08T14:55:00Z",
+                    "scheduledEndTime": null,
+                    "concurrentViewers": null,
+                    "activeLiveChatId": null
+                }
+            }
+        ],
+        "seenCount": 1,
+        "depths": [
+            0
+        ]
+    },
+    "ThQteoYmCTw": {
+        "kind": "youtube#videoListResponse",
+        "etag": "C1hwWH7rnPtAHUvKht213wn5n3o",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "K4uftSo0lHkoh5pn0Exr7MTaJbI",
+                "id": "ThQteoYmCTw",
+                "snippet": {
+                    "publishedAt": "2024-07-11T19:00:06Z",
+                    "channelId": "UCsUeMgCW9MRxoZbXTpA7Sog",
+                    "title": "I started a Dynasty in College Football 25",
+                    "description": "Thank you to EA for letting me capture this early.\n\nI played a full season of dynasty mode in College Football 25. I give you a complete recruiting guide including high school prospects, using the transfer portal, and much more. I show off different coaching abilities and skill trees. Let's have some fun \n\nSocial Media:\n  - Twitter: https://twitter.com/NotTheExpertYT\n  - Instagram: https://www.instagram.com/nottheexprtyt/\n  - Twitch: https://www.twitch.tv/nottheexpertyt\n  - Discord: https://discord.gg/4gA3C4j\n  - Reddit: https://www.reddit.com/r/NotTheExpert/\n  - Facebook: https://www.facebook.com/Not-The-Expert-113796817114832\n\nFor Business Inquires: contact@tablerockmanagement.com",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/ThQteoYmCTw/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/ThQteoYmCTw/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/ThQteoYmCTw/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/ThQteoYmCTw/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/ThQteoYmCTw/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Not The Expert",
+                    "tags": [
+                        "not the expert",
+                        "nte",
+                        "drew morris",
+                        "bigoledrewski",
+                        "drew",
+                        "college football 25",
+                        "college football 25 gameplay",
+                        "college football 25 dynasty gameplay",
+                        "college football 25 how to recruit",
+                        "how to recruit in college football 25",
+                        "recruiting guide college football 25",
+                        "one full season in dynasty mode college football 25",
+                        "dynasty rebuild college football 25"
+                    ],
+                    "categoryId": "20",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": null,
+                    "localized": {
+                        "title": "I started a Dynasty in College Football 25",
+                        "description": "Thank you to EA for letting me capture this early.\n\nI played a full season of dynasty mode in College Football 25. I give you a complete recruiting guide including high school prospects, using the transfer portal, and much more. I show off different coaching abilities and skill trees. Let's have some fun \n\nSocial Media:\n  - Twitter: https://twitter.com/NotTheExpertYT\n  - Instagram: https://www.instagram.com/nottheexprtyt/\n  - Twitch: https://www.twitch.tv/nottheexpertyt\n  - Discord: https://discord.gg/4gA3C4j\n  - Reddit: https://www.reddit.com/r/NotTheExpert/\n  - Facebook: https://www.facebook.com/Not-The-Expert-113796817114832\n\nFor Business Inquires: contact@tablerockmanagement.com"
+                    },
+                    "defaultAudioLanguage": "en"
+                },
+                "contentDetails": {
+                    "duration": "PT49M30S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 599532,
+                    "likeCount": 25223,
+                    "dislikeCount": null,
+                    "commentCount": 2450
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Sports_game",
+                        "https://en.wikipedia.org/wiki/Video_game_culture"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/ThQteoYmCTw\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": {
+                    "actualStartTime": "2024-07-11T19:00:06Z",
+                    "actualEndTime": "2024-07-11T19:51:35Z",
+                    "scheduledStartTime": "2024-07-11T19:00:00Z",
+                    "scheduledEndTime": null,
+                    "concurrentViewers": null,
+                    "activeLiveChatId": null
+                }
+            }
+        ],
+        "seenCount": 3,
+        "depths": [
+            1,
+            3,
+            5
+        ]
+    },
+    "cLo1bIM6De8": {
+        "kind": "youtube#videoListResponse",
+        "etag": "Bl2NG1ioyxw3fCOXIdEMmaCihjI",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "3WZwLP4WLI_ehs2hwSDql6Wdv6Y",
+                "id": "cLo1bIM6De8",
+                "snippet": {
+                    "publishedAt": "2024-07-11T20:00:06Z",
+                    "channelId": "UCtuKVZ8J_E2N9BqswnBTdjg",
+                    "title": "College Football 25 Road To Glory: Full Season Gameplay Walkthrough",
+                    "description": "- This video is presented By EA Creator Network \nCollege Football 25 - Full Freshman Season of Road To Glory Gameplay Walkthrough\n\n- I went through my whole Freshman season on Road To Glory with my CB London Bridges II. From player creation to pursuing a national championship all while becoming the best CB in the nation! \n\n#CFB25 #qjb  \n\nhttps://steelseries.com/ - Use code \"QJB12\" for 12% off!\n\nFor better grip, comfort and movement while gaming, go to KontrolFreek here -  https://www.kontrolfreek.com/qjbeat and use code \"QJBEAT\" for 12% off!\n\n\u261fQJB's Social Media Accounts, Stay Connected!\u261f\n\n\u2709 Twitter - https://twitter.com/QJBeat\n\u2709 IG - http://instagram.com/QJBeat\n\u2709 TikTok - https://www.tiktok.com/@qjbot\n\n\ud83d\udd25 Join for Exclusive Perks! - https://tinyurl.com/JoinQJB\nCAPTURE HD GAMEPLAY in 60 FPS! - http://e.lga.to/QJB\n\n\u266b Music From - https://www.epidemicsound.com/\n\n& As Always Folks, Dat Nasty \u270c\n\n0:00 Intro\n1:12 Road To Glory \n3:00 Player Creation\n7:23 Choosing A School\n9:35 Upgrading Attributes\n10:45 Weekly Agenda\n12:08 Practice Drills\n13:18 Sabotage Teammate \n15:50 Academic Advisor & NIL\n16:42 CB4 Position Battle \n17:54 UGF Pandas\n18:51 1st Gameplay\n21:04 1st User Pick\n21:59 Celebrations\n23:45 Party Invite\n25:30 CB1 Position Battle\n26:36 Arkansas Away Game\n30:54 Upgrading Physical Ability\n31:29 Texas A&M Away Game\n36:00 Losing Coach Trust\n36:52 Alabama Home Game\n38:32 Tiger Swag Celebration\n45:40 Improving GPA\n46:32 Heisman Trophy Winner\n47:44 Playoff Game vs Notre Dame\n49:22 Wear and Tear\n52:49 Rose Bowl vs Oregon\n56:49 Orange Bowl vs Ohio State\n1:05:09 National Championship vs Alabama\n1:13:22 Crazy Pick 6\n1:17:14 Transfer Portal",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/cLo1bIM6De8/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/cLo1bIM6De8/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/cLo1bIM6De8/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/cLo1bIM6De8/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/cLo1bIM6De8/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "QJB",
+                    "tags": [
+                        "college football 25",
+                        "college football",
+                        "college football 25 gameplay",
+                        "college football 25 road to glory",
+                        "college football 25 ultimate team",
+                        "college football 25 trailer",
+                        "college football 25 dynasty",
+                        "college football 25 team builder",
+                        "college football 25 deep dive",
+                        "ea college football 25",
+                        "ea college football",
+                        "college football 25 road to glory cb",
+                        "college football 25 cb",
+                        "ea sports college football 25 trailer",
+                        "college football highlights",
+                        "college football playoff"
+                    ],
+                    "categoryId": "20",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": null,
+                    "localized": {
+                        "title": "College Football 25 Road To Glory: Full Season Gameplay Walkthrough",
+                        "description": "- This video is presented By EA Creator Network \nCollege Football 25 - Full Freshman Season of Road To Glory Gameplay Walkthrough\n\n- I went through my whole Freshman season on Road To Glory with my CB London Bridges II. From player creation to pursuing a national championship all while becoming the best CB in the nation! \n\n#CFB25 #qjb  \n\nhttps://steelseries.com/ - Use code \"QJB12\" for 12% off!\n\nFor better grip, comfort and movement while gaming, go to KontrolFreek here -  https://www.kontrolfreek.com/qjbeat and use code \"QJBEAT\" for 12% off!\n\n\u261fQJB's Social Media Accounts, Stay Connected!\u261f\n\n\u2709 Twitter - https://twitter.com/QJBeat\n\u2709 IG - http://instagram.com/QJBeat\n\u2709 TikTok - https://www.tiktok.com/@qjbot\n\n\ud83d\udd25 Join for Exclusive Perks! - https://tinyurl.com/JoinQJB\nCAPTURE HD GAMEPLAY in 60 FPS! - http://e.lga.to/QJB\n\n\u266b Music From - https://www.epidemicsound.com/\n\n& As Always Folks, Dat Nasty \u270c\n\n0:00 Intro\n1:12 Road To Glory \n3:00 Player Creation\n7:23 Choosing A School\n9:35 Upgrading Attributes\n10:45 Weekly Agenda\n12:08 Practice Drills\n13:18 Sabotage Teammate \n15:50 Academic Advisor & NIL\n16:42 CB4 Position Battle \n17:54 UGF Pandas\n18:51 1st Gameplay\n21:04 1st User Pick\n21:59 Celebrations\n23:45 Party Invite\n25:30 CB1 Position Battle\n26:36 Arkansas Away Game\n30:54 Upgrading Physical Ability\n31:29 Texas A&M Away Game\n36:00 Losing Coach Trust\n36:52 Alabama Home Game\n38:32 Tiger Swag Celebration\n45:40 Improving GPA\n46:32 Heisman Trophy Winner\n47:44 Playoff Game vs Notre Dame\n49:22 Wear and Tear\n52:49 Rose Bowl vs Oregon\n56:49 Orange Bowl vs Ohio State\n1:05:09 National Championship vs Alabama\n1:13:22 Crazy Pick 6\n1:17:14 Transfer Portal"
+                    },
+                    "defaultAudioLanguage": null
+                },
+                "contentDetails": {
+                    "duration": "PT1H17M31S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 556369,
+                    "likeCount": 21172,
+                    "dislikeCount": null,
+                    "commentCount": 1655
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Sports_game",
+                        "https://en.wikipedia.org/wiki/Video_game_culture"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/cLo1bIM6De8\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": {
+                    "actualStartTime": "2024-07-11T20:00:06Z",
+                    "actualEndTime": "2024-07-11T21:18:36Z",
+                    "scheduledStartTime": "2024-07-11T20:00:00Z",
+                    "scheduledEndTime": null,
+                    "concurrentViewers": null,
+                    "activeLiveChatId": null
+                }
+            }
+        ],
+        "seenCount": 3,
+        "depths": [
+            2,
+            4,
+            6
+        ]
+    },
+    "RK9LgSQcXQk": {
+        "kind": "youtube#videoListResponse",
+        "etag": "ECxV-8bdWcnI5hBQHEzOX_zsrPo",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "3TXN-s65q70DMqZ49Z0riJppT_c",
+                "id": "RK9LgSQcXQk",
+                "snippet": {
+                    "publishedAt": "2024-06-01T21:50:39Z",
+                    "channelId": "UCR7Wea3hZHt0bPMfemdcKxw",
+                    "title": "CFB 25 Night Game GAMEPLAY! EA Sports College Football 25 Gameplay Pre snap penalty",
+                    "description": "#newcollegefootballgame #easportscollegefootball #collegefootball25gameplay #CFB25 #NCAAFOOTBALL \n\n\nI found this video online and decided to add sound to the game! This happened in real life when Michigan traveled to PSU so i thought it would be cool to not only show pre play but add some mo bamba sound effects in there too which ultimately led to a michigan false start that night \n\nThis is college football 25 pre snap gameplay at penn state at night. \n\nEA Sports college football 25 comes out on July 19th. \n\nWELCOME BACK!  Yesterday we got a gameplay deep dive video into the brand new EA Sports College football 25 game. The video had Kirk herbstriet narrating and talking about the Wear and tear system, Home environments and the new Passing system! Where you will need to rely on a passing meter like 2k to pass with accuracy. The home environments look insane with another loud / hype meter that will make your screen shake if you are the away team! This game is loaded with Abilities where you will be able to eqip up to 8 for your best players on your team.\n\nThis video showcases the field general ability that can be very effective when trying to figure out what the D is running . \n\nThe offensive line logic looks to be VERY MUCH improved! Great double teams in the RPO game as well. \n\nThis is college football 25 gameplay and the full game will be releasing on July 19th! Stay up to date with everything CFB 25 here on my channel as we get closer with more news coming soon about dynasty, rtg, ultimate team and more! \n\nCollege football 25 new gameplay. Latest news on college football 25 update\n____________________\n\n#ncaafootball14 #ncaafootballdynasty #newcollegefootballgame #cfb25dynasty #collegefootball25gameplay #newcfb25gameplay #collegefootball25gameplay #ncaa25dynasty #ncaa25rebuild #cfb25rebuild #newcollegefootballgameplay #cfb25gameplay #ps5 #sportsgaming #cfb25dynasty #latestnewscfb25 #cfb25update #ncaafootball25news #collegefootball25gameplayps5 #easportscollegefootball25 #easportscollegefootball25gameplay #ps5cfb25 #cfb25dynasty #cfb25rtg #ericrayweather #newncaagame #collegefootball25ps5 #collegefootball25news #sportsgaming #ncaafootball14revamped #ncaa14dynasty #ncaafootball25news #newcfbgame #newncaagame #easportscollegefootballgame",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/RK9LgSQcXQk/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/RK9LgSQcXQk/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/RK9LgSQcXQk/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/RK9LgSQcXQk/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/RK9LgSQcXQk/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "TRIGGA",
+                    "tags": [
+                        "cfb 25",
+                        "college football",
+                        "ncaa 14",
+                        "college football 25",
+                        "ea sports college football 25",
+                        "cfb 25 gameplay",
+                        "cfb 25 dynasty",
+                        "college football 25 gameplay",
+                        "michigan football",
+                        "college football 25 night game",
+                        "ncaa 25 gameplay",
+                        "new college football 25 gameplay",
+                        "college football 25 deep dive",
+                        "cfb 25 new gameplay",
+                        "new college football game",
+                        "new ncaa football game",
+                        "eric rayweather cfb 25",
+                        "cfb 25 update",
+                        "college football 25 latest news",
+                        "leaked gameplay cfb 25",
+                        "ncaa 25 deep dive",
+                        "cfb25"
+                    ],
+                    "categoryId": "20",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": null,
+                    "localized": {
+                        "title": "CFB 25 Night Game GAMEPLAY! EA Sports College Football 25 Gameplay Pre snap penalty",
+                        "description": "#newcollegefootballgame #easportscollegefootball #collegefootball25gameplay #CFB25 #NCAAFOOTBALL \n\n\nI found this video online and decided to add sound to the game! This happened in real life when Michigan traveled to PSU so i thought it would be cool to not only show pre play but add some mo bamba sound effects in there too which ultimately led to a michigan false start that night \n\nThis is college football 25 pre snap gameplay at penn state at night. \n\nEA Sports college football 25 comes out on July 19th. \n\nWELCOME BACK!  Yesterday we got a gameplay deep dive video into the brand new EA Sports College football 25 game. The video had Kirk herbstriet narrating and talking about the Wear and tear system, Home environments and the new Passing system! Where you will need to rely on a passing meter like 2k to pass with accuracy. The home environments look insane with another loud / hype meter that will make your screen shake if you are the away team! This game is loaded with Abilities where you will be able to eqip up to 8 for your best players on your team.\n\nThis video showcases the field general ability that can be very effective when trying to figure out what the D is running . \n\nThe offensive line logic looks to be VERY MUCH improved! Great double teams in the RPO game as well. \n\nThis is college football 25 gameplay and the full game will be releasing on July 19th! Stay up to date with everything CFB 25 here on my channel as we get closer with more news coming soon about dynasty, rtg, ultimate team and more! \n\nCollege football 25 new gameplay. Latest news on college football 25 update\n____________________\n\n#ncaafootball14 #ncaafootballdynasty #newcollegefootballgame #cfb25dynasty #collegefootball25gameplay #newcfb25gameplay #collegefootball25gameplay #ncaa25dynasty #ncaa25rebuild #cfb25rebuild #newcollegefootballgameplay #cfb25gameplay #ps5 #sportsgaming #cfb25dynasty #latestnewscfb25 #cfb25update #ncaafootball25news #collegefootball25gameplayps5 #easportscollegefootball25 #easportscollegefootball25gameplay #ps5cfb25 #cfb25dynasty #cfb25rtg #ericrayweather #newncaagame #collegefootball25ps5 #collegefootball25news #sportsgaming #ncaafootball14revamped #ncaa14dynasty #ncaafootball25news #newcfbgame #newncaagame #easportscollegefootballgame"
+                    },
+                    "defaultAudioLanguage": null
+                },
+                "contentDetails": {
+                    "duration": "PT22S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 83615,
+                    "likeCount": 2438,
+                    "dislikeCount": null,
+                    "commentCount": 201
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Sports_game",
+                        "https://en.wikipedia.org/wiki/Video_game_culture"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/RK9LgSQcXQk\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": null
+            }
+        ],
+        "seenCount": 1,
+        "depths": [
+            7
+        ]
+    },
+    "EAoR-zjg0GM": {
+        "kind": "youtube#videoListResponse",
+        "etag": "PXGzoTIF0dG0ZyRf4FvODIkwC8I",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "xTpl_tTAo-T_LeKt-aGguVVmvYQ",
+                "id": "EAoR-zjg0GM",
+                "snippet": {
+                    "publishedAt": "2024-06-10T22:19:07Z",
+                    "channelId": "UCz2tZcKuUyCY7g_MQPFVZ5g",
+                    "title": "Hype CFB plays to get you ready for CFB 25",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/EAoR-zjg0GM/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/EAoR-zjg0GM/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/EAoR-zjg0GM/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/EAoR-zjg0GM/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/EAoR-zjg0GM/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "CJ does stuff ",
+                    "tags": null,
+                    "categoryId": "22",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": null,
+                    "localized": {
+                        "title": "Hype CFB plays to get you ready for CFB 25",
+                        "description": ""
+                    },
+                    "defaultAudioLanguage": null
+                },
+                "contentDetails": {
+                    "duration": "PT7M",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": false,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 211763,
+                    "likeCount": 4152,
+                    "dislikeCount": null,
+                    "commentCount": 241
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/American_football",
+                        "https://en.wikipedia.org/wiki/Sport"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/EAoR-zjg0GM\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": null
+            }
+        ],
+        "seenCount": 1,
+        "depths": [
+            8
+        ]
+    },
+    "3yT-gzr9Rac": {
+        "kind": "youtube#videoListResponse",
+        "etag": "8v0_NWwkW_zUagpBH29HIqz0CU8",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "-VivgOygiEJ9KJLH-loUe5Vob_w",
+                "id": "3yT-gzr9Rac",
+                "snippet": {
+                    "publishedAt": "2024-06-30T02:16:30Z",
+                    "channelId": "UCz2tZcKuUyCY7g_MQPFVZ5g",
+                    "title": "Hype CFB plays to get you ready for CFB 25 pt2",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/3yT-gzr9Rac/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/3yT-gzr9Rac/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/3yT-gzr9Rac/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/3yT-gzr9Rac/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/3yT-gzr9Rac/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "CJ does stuff ",
+                    "tags": null,
+                    "categoryId": "22",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": null,
+                    "localized": {
+                        "title": "Hype CFB plays to get you ready for CFB 25 pt2",
+                        "description": ""
+                    },
+                    "defaultAudioLanguage": null
+                },
+                "contentDetails": {
+                    "duration": "PT9M18S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": false,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 292,
+                    "likeCount": 18,
+                    "dislikeCount": null,
+                    "commentCount": 6
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/American_football",
+                        "https://en.wikipedia.org/wiki/Association_football"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/3yT-gzr9Rac\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": null
+            }
+        ],
+        "seenCount": 1,
+        "depths": [
+            9
+        ]
+    },
+    "tb6s0LZl2Ko": {
+        "kind": "youtube#videoListResponse",
+        "etag": "gDVKMQbMZMLe9SRBBGJLzm6YlWQ",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "3Rq3TyWADqq2cEZ9ZAAF7-fqmww",
+                "id": "tb6s0LZl2Ko",
+                "snippet": {
+                    "publishedAt": "2024-07-12T05:03:43Z",
+                    "channelId": "UCO0akufu9MOzyz3nvGIXAAw",
+                    "title": "Donald Trump's brutal reaction to Joe Biden's disastrous day",
+                    "description": "Former US President Donald Trump has brutally roasted US President Joe Biden following his disastrous press conference.\n\nWithin minutes of the oldest-ever sitting president\u2019s presser, Biden called Vice President Kamala Harris, Donald Trump.\n\nThe embarrassing mistake happened very early on, with Trump posting to Truth Social about it shortly after.\n\n\u201cCrooked Joe begins his \u201cBig Boy\u201d Press Conference with, \"I wouldn't have picked Vice President Trump to be vice president, though I think she was not qualified to be president.\" Great job, Joe!\u201d wrote Trump.\n\nBiden\u2019s nearly hour-long presser allowed reporters to ask the president any un-scripted question.\n\nThe press conference followed Biden\u2019s speech at the NATO summit in Washington.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/tb6s0LZl2Ko/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/tb6s0LZl2Ko/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/tb6s0LZl2Ko/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/tb6s0LZl2Ko/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/tb6s0LZl2Ko/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Sky News Australia",
+                    "tags": [
+                        "6357682682112",
+                        "fb",
+                        "msn",
+                        "usa",
+                        "world",
+                        "yt"
+                    ],
+                    "categoryId": "25",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": null,
+                    "localized": {
+                        "title": "Donald Trump's brutal reaction to Joe Biden's disastrous day",
+                        "description": "Former US President Donald Trump has brutally roasted US President Joe Biden following his disastrous press conference.\n\nWithin minutes of the oldest-ever sitting president\u2019s presser, Biden called Vice President Kamala Harris, Donald Trump.\n\nThe embarrassing mistake happened very early on, with Trump posting to Truth Social about it shortly after.\n\n\u201cCrooked Joe begins his \u201cBig Boy\u201d Press Conference with, \"I wouldn't have picked Vice President Trump to be vice president, though I think she was not qualified to be president.\" Great job, Joe!\u201d wrote Trump.\n\nBiden\u2019s nearly hour-long presser allowed reporters to ask the president any un-scripted question.\n\nThe press conference followed Biden\u2019s speech at the NATO summit in Washington."
+                    },
+                    "defaultAudioLanguage": "en-US"
+                },
+                "contentDetails": {
+                    "duration": "PT10M40S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 222470,
+                    "likeCount": 5795,
+                    "dislikeCount": null,
+                    "commentCount": 2087
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Politics",
+                        "https://en.wikipedia.org/wiki/Society",
+                        "https://en.wikipedia.org/wiki/Television_program"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/tb6s0LZl2Ko\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": null
+            }
+        ],
+        "seenCount": 1,
+        "depths": [
+            10
+        ]
+    },
+    "O-YbCudKBNA": {
+        "kind": "youtube#videoListResponse",
+        "etag": "FzlDDxk0EKmo727VzIoBvjPkR-4",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "7OwQxorM4lGUrwe41zpXO1sa9gQ",
+                "id": "O-YbCudKBNA",
+                "snippet": {
+                    "publishedAt": "2024-07-12T00:39:04Z",
+                    "channelId": "UCO0akufu9MOzyz3nvGIXAAw",
+                    "title": "'The man needs help': Joe Biden fails NATO press conference",
+                    "description": "Sky News host Gabriella Power said US President Joe Biden \u201cneeds help\u201d after making several blunders at his \u201cmake or break\u201d press conference. \n\nHours before the press conference at the NATO Summit, Joe Biden accidentally referred to the leader of Ukraine as \u201cPresident Putin\u201d.  \n\nMs Power said it is \u201cexcruciatingly painful\u201d watching Joe Biden become the \u201claughing stock of the world\u201d. \n\n\u201cThe American people deserve better than this,\u201d Ms Power said. \n\n\u201cHe has all the signs of a medical condition\u201d.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/O-YbCudKBNA/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/O-YbCudKBNA/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/O-YbCudKBNA/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/O-YbCudKBNA/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/O-YbCudKBNA/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Sky News Australia",
+                    "tags": [
+                        "6357667715112",
+                        "fb",
+                        "msn",
+                        "usa",
+                        "world",
+                        "yt"
+                    ],
+                    "categoryId": "25",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": null,
+                    "localized": {
+                        "title": "'The man needs help': Joe Biden fails NATO press conference",
+                        "description": "Sky News host Gabriella Power said US President Joe Biden \u201cneeds help\u201d after making several blunders at his \u201cmake or break\u201d press conference. \n\nHours before the press conference at the NATO Summit, Joe Biden accidentally referred to the leader of Ukraine as \u201cPresident Putin\u201d.  \n\nMs Power said it is \u201cexcruciatingly painful\u201d watching Joe Biden become the \u201claughing stock of the world\u201d. \n\n\u201cThe American people deserve better than this,\u201d Ms Power said. \n\n\u201cHe has all the signs of a medical condition\u201d."
+                    },
+                    "defaultAudioLanguage": "en-US"
+                },
+                "contentDetails": {
+                    "duration": "PT21M42S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 1115643,
+                    "likeCount": 30632,
+                    "dislikeCount": null,
+                    "commentCount": 10414
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Politics",
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/O-YbCudKBNA\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": null
+            }
+        ],
+        "seenCount": 1,
+        "depths": [
+            11
+        ]
+    },
+    "NFCbn6bgeVM": {
+        "kind": "youtube#videoListResponse",
+        "etag": "pZSfzvNjLYL194g1Kd7qINZAKD8",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "qhNKHL-fCEuq33L_5vQWniybnpQ",
+                "id": "NFCbn6bgeVM",
+                "snippet": {
+                    "publishedAt": "2024-07-12T01:02:57Z",
+                    "channelId": "UCBu0KdNokE4MqdkacvH37_A",
+                    "title": "Joe Biden full press conference (July 11, 2024)",
+                    "description": "Joe Biden held a solo press conference on July 11, 2024. Watch the full presser here.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/NFCbn6bgeVM/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/NFCbn6bgeVM/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/NFCbn6bgeVM/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/NFCbn6bgeVM/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": null
+                    },
+                    "channelTitle": "WFAA",
+                    "tags": [
+                        "[ politics",
+                        "news ]"
+                    ],
+                    "categoryId": "25",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Joe Biden full press conference (July 11, 2024)",
+                        "description": "Joe Biden held a solo press conference on July 11, 2024. Watch the full presser here."
+                    },
+                    "defaultAudioLanguage": "en"
+                },
+                "contentDetails": {
+                    "duration": "PT58M40S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "true",
+                    "licensedContent": true,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 213919,
+                    "likeCount": 1862,
+                    "dislikeCount": null,
+                    "commentCount": 3344
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Politics",
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/NFCbn6bgeVM\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": null
+            }
+        ],
+        "seenCount": 2,
+        "depths": [
+            12,
+            803
+        ]
+    },
+    "OHtjoH0L5L8": {
+        "kind": "youtube#videoListResponse",
+        "etag": "oLyJgSmDzskYykSwFABtpBqrNg4",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "3LqudJk15ETCSPHur2J6O_hQxZ4",
+                "id": "OHtjoH0L5L8",
+                "snippet": {
+                    "publishedAt": "2024-07-12T02:49:16Z",
+                    "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
+                    "title": "President Biden holds solo press conference after NATO summit | Special Report",
+                    "description": "President Biden held a rare solo news conference Thursday to conclude the NATO summit in Washington, D.C., where he had working sessions with world leaders. Mr. Biden spoke amid pressure from some Democratic lawmakers to withdraw from the 2024 race in the wake of his debate performance last month. Watch CBS News' special report.\n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking news, live events, original reporting and storytelling, and programs from CBS News and Stations' top anchors and correspondents working locally, nationally and around the globe. It is available on more than 30 platforms across mobile, desktop and connected TVs for free, as well as CBSNews.com and Paramount+ and live in 91 countries.\n\nSubscribe to the CBS News YouTube channel: https://youtube.com/cbsnews\nWatch CBS News 24/7: https://cbsnews.com/live/\nDownload the CBS News app: https://cbsnews.com/mobile/\nFollow CBS News on Instagram: https://instagram.com/cbsnews/\nLike CBS News on Facebook: https://facebook.com/cbsnews\nFollow CBS News on Twitter: https://twitter.com/cbsnews\nSubscribe to our newsletters: https://cbsnews.com/newsletters/\nTry Paramount+ free: https://paramountplus.com/?ftag=PPM-05-10aeh8h\n\nFor video licensing inquiries, contact: licensing@veritone.com",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/OHtjoH0L5L8/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/OHtjoH0L5L8/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/OHtjoH0L5L8/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/OHtjoH0L5L8/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/OHtjoH0L5L8/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "CBS News",
+                    "tags": [
+                        "Biden Administration",
+                        "Joe Biden",
+                        "NATO",
+                        "Clips",
+                        "U.S.",
+                        "Politics",
+                        "CBS News"
+                    ],
+                    "categoryId": "25",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": null,
+                    "localized": {
+                        "title": "President Biden holds solo press conference after NATO summit | Special Report",
+                        "description": "President Biden held a rare solo news conference Thursday to conclude the NATO summit in Washington, D.C., where he had working sessions with world leaders. Mr. Biden spoke amid pressure from some Democratic lawmakers to withdraw from the 2024 race in the wake of his debate performance last month. Watch CBS News' special report.\n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking news, live events, original reporting and storytelling, and programs from CBS News and Stations' top anchors and correspondents working locally, nationally and around the globe. It is available on more than 30 platforms across mobile, desktop and connected TVs for free, as well as CBSNews.com and Paramount+ and live in 91 countries.\n\nSubscribe to the CBS News YouTube channel: https://youtube.com/cbsnews\nWatch CBS News 24/7: https://cbsnews.com/live/\nDownload the CBS News app: https://cbsnews.com/mobile/\nFollow CBS News on Instagram: https://instagram.com/cbsnews/\nLike CBS News on Facebook: https://facebook.com/cbsnews\nFollow CBS News on Twitter: https://twitter.com/cbsnews\nSubscribe to our newsletters: https://cbsnews.com/newsletters/\nTry Paramount+ free: https://paramountplus.com/?ftag=PPM-05-10aeh8h\n\nFor video licensing inquiries, contact: licensing@veritone.com"
+                    },
+                    "defaultAudioLanguage": "en"
+                },
+                "contentDetails": {
+                    "duration": "PT1H4M3S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 13664,
+                    "likeCount": 118,
+                    "dislikeCount": null,
+                    "commentCount": 150
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Politics",
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/OHtjoH0L5L8\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": null
+            }
+        ],
+        "seenCount": 1,
+        "depths": [
+            13
+        ]
+    },
+    "Jg9bcEHUew4": {
+        "kind": "youtube#videoListResponse",
+        "etag": "nIcOsMvBGs9cS_7ioEji_hniQkg",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "28Mnm1o2MPHMfZI3mH8eMK8W05Q",
+                "id": "Jg9bcEHUew4",
+                "snippet": {
+                    "publishedAt": "2024-07-12T03:45:01Z",
+                    "channelId": "UCa6vGFO9ty8v5KZJXQxdhaw",
+                    "title": "Guest Host Kumail Nanjiani on Trump Bashing Clooney, Biden at NATO & a VERY Honest Graduation Speech",
+                    "description": "Guest Host Kumail Nanjiani steps in to talk about the ESPYs, Cricket terminology sounding like sex acts, 7-Eleven\u2019s free Slurpee day, President Biden\u2019s \u201chigh stakes\u201d press conference at the NATO Summit, Trump bashing George Clooney after his op-ed in the New York Times, a woman in Birmingham turning 108, 70% of people thinking that jokes written by A.I. are funnier than those written by humans, and he delivers the most brutally honest graduation speech you\u2019ve ever heard.\n\nSUBSCRIBE to get the latest #Kimmel: http://bit.ly/JKLSubscribe\n \nFollow Jimmy Kimmel on Instagram: https://bit.ly/KimmelInstagram \nFollow Jimmy Kimmel Live on Instagram: http://bit.ly/JKLInstagram\nFollow Jimmy Kimmel Live on TikTok: https://bit.ly/JKLTikTok \nLike Jimmy Kimmel on Facebook: http://bit.ly/KimmelFB  \nLike Jimmy Kimmel Live on Facebook: http://bit.ly/JKLFacebook  \nVisit the Jimmy Kimmel Live Website : http://bit.ly/JKLWebsite \n \nAbout Jimmy Kimmel Live: \n \nJimmy Kimmel serves as host and executive producer of Emmy\u00ae nominated \u201cJimmy Kimmel Live,\u201d ABC\u2019s late-night talk show. \u201cJimmy Kimmel Live\u201d is well known for its viral video successes, with over 16 billion views and more than 19 million subscribers on the show\u2019s YouTube channel. Some of Kimmel\u2019s most popular comedy bits include Celebrities Read Mean Tweets, Lie Witness News, Halloween Candy YouTube Challenge, Jimmy and Cousin Sal pranking Aunt Chippy and music stars like Rihanna and Dua Lipa surprising Jimmy in the middle of the night.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Jg9bcEHUew4/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Jg9bcEHUew4/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Jg9bcEHUew4/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/Jg9bcEHUew4/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/Jg9bcEHUew4/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Jimmy Kimmel Live",
+                    "tags": [
+                        "jimmy",
+                        "jimmy kimmel",
+                        "jimmy kimmel live",
+                        "late night",
+                        "talk show",
+                        "funny",
+                        "comedic",
+                        "comedy",
+                        "clip",
+                        "comedian",
+                        "mean tweets"
+                    ],
+                    "categoryId": "23",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": null,
+                    "localized": {
+                        "title": "Guest Host Kumail Nanjiani on Trump Bashing Clooney, Biden at NATO & a VERY Honest Graduation Speech",
+                        "description": "Guest Host Kumail Nanjiani steps in to talk about the ESPYs, Cricket terminology sounding like sex acts, 7-Eleven\u2019s free Slurpee day, President Biden\u2019s \u201chigh stakes\u201d press conference at the NATO Summit, Trump bashing George Clooney after his op-ed in the New York Times, a woman in Birmingham turning 108, 70% of people thinking that jokes written by A.I. are funnier than those written by humans, and he delivers the most brutally honest graduation speech you\u2019ve ever heard.\n\nSUBSCRIBE to get the latest #Kimmel: http://bit.ly/JKLSubscribe\n \nFollow Jimmy Kimmel on Instagram: https://bit.ly/KimmelInstagram \nFollow Jimmy Kimmel Live on Instagram: http://bit.ly/JKLInstagram\nFollow Jimmy Kimmel Live on TikTok: https://bit.ly/JKLTikTok \nLike Jimmy Kimmel on Facebook: http://bit.ly/KimmelFB  \nLike Jimmy Kimmel Live on Facebook: http://bit.ly/JKLFacebook  \nVisit the Jimmy Kimmel Live Website : http://bit.ly/JKLWebsite \n \nAbout Jimmy Kimmel Live: \n \nJimmy Kimmel serves as host and executive producer of Emmy\u00ae nominated \u201cJimmy Kimmel Live,\u201d ABC\u2019s late-night talk show. \u201cJimmy Kimmel Live\u201d is well known for its viral video successes, with over 16 billion views and more than 19 million subscribers on the show\u2019s YouTube channel. Some of Kimmel\u2019s most popular comedy bits include Celebrities Read Mean Tweets, Lie Witness News, Halloween Candy YouTube Challenge, Jimmy and Cousin Sal pranking Aunt Chippy and music stars like Rihanna and Dua Lipa surprising Jimmy in the middle of the night."
+                    },
+                    "defaultAudioLanguage": "en-US"
+                },
+                "contentDetails": {
+                    "duration": "PT14M26S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": false,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 132948,
+                    "likeCount": 4557,
+                    "dislikeCount": null,
+                    "commentCount": 464
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Entertainment",
+                        "https://en.wikipedia.org/wiki/Film",
+                        "https://en.wikipedia.org/wiki/Television_program"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/Jg9bcEHUew4\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": null
+            }
+        ],
+        "seenCount": 1,
+        "depths": [
+            14
+        ]
+    },
+    "zaAYSjf5kss": {
+        "kind": "youtube#videoListResponse",
+        "etag": "Q0sqT7QLH3zU1U1JTh12AXDUXlw",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "S9W9MmeG8l49PgsAUyHYUcKlfLI",
+                "id": "zaAYSjf5kss",
+                "snippet": {
+                    "publishedAt": "2024-07-12T03:50:00Z",
+                    "channelId": "UCMtFAi84ehTSYSE9XoHefig",
+                    "title": "Top Dems Pull Away From Biden | White House Claps Back At Clooney | Boeing Strands U.S. Astronauts",
+                    "description": "Nancy Pelosi and Chuck Schumer appear to be wavering in their support for the president, Biden\u2019s team pushed back at George Clooney after his op-ed urging the president to step aside, and two of America\u2019s astronauts are stuck in space thanks to problems with a Boeing spacecraft.\n\n#Colbert #Comedy #Monologue\n\nSubscribe To \"The Late Show\" Channel: http://bit.ly/ColbertYouTube\n\nWatch full episodes of \"The Late Show\": http://bit.ly/1Puei40\nListen to \"The Late Show Pod Show\" podcast: https://link.chtbl.com/Awagtx95?sid=yt\nLike \"The Late Show\" on Facebook: http://on.fb.me/1df139Y\nFollow \"The Late Show\" on X: http://bit.ly/1dMzZzG\nFollow \"The Late Show\" on Instagram: http://bit.ly/29wfREj\n\nWatch The Late Show with Stephen Colbert weeknights at 11:35 PM ET/10:35 PM CT. Only on CBS.\n\n---\nStephen Colbert brings his signature satire and comedy to THE LATE SHOW with STEPHEN COLBERT, the #1 show in late night, where he talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology and more. Featuring bandleader Louis Cato and \u201cTHE LATE SHOW band,\u201d the Peabody Award-winning and Emmy Award-nominated show is broadcast from the historic Ed Sullivan Theater. Stephen Colbert took over as host, executive producer and writer of THE LATE SHOW on Sept. 8, 2015.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/zaAYSjf5kss/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/zaAYSjf5kss/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/zaAYSjf5kss/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/zaAYSjf5kss/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": null
+                    },
+                    "channelTitle": "The Late Show with Stephen Colbert",
+                    "tags": [
+                        "The Late Show",
+                        "Late Show",
+                        "Stephen Colbert",
+                        "Steven Colbert",
+                        "Colbert",
+                        "celebrity",
+                        "celeb",
+                        "celebrities",
+                        "late night",
+                        "talk show",
+                        "comedian",
+                        "comedy",
+                        "CBS",
+                        "joke",
+                        "jokes",
+                        "funny",
+                        "funny video",
+                        "funny videos",
+                        "humor",
+                        "hollywood",
+                        "famous"
+                    ],
+                    "categoryId": "24",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "en",
+                    "localized": {
+                        "title": "Top Dems Pull Away From Biden | White House Claps Back At Clooney | Boeing Strands U.S. Astronauts",
+                        "description": "Nancy Pelosi and Chuck Schumer appear to be wavering in their support for the president, Biden\u2019s team pushed back at George Clooney after his op-ed urging the president to step aside, and two of America\u2019s astronauts are stuck in space thanks to problems with a Boeing spacecraft.\n\n#Colbert #Comedy #Monologue\n\nSubscribe To \"The Late Show\" Channel: http://bit.ly/ColbertYouTube\n\nWatch full episodes of \"The Late Show\": http://bit.ly/1Puei40\nListen to \"The Late Show Pod Show\" podcast: https://link.chtbl.com/Awagtx95?sid=yt\nLike \"The Late Show\" on Facebook: http://on.fb.me/1df139Y\nFollow \"The Late Show\" on X: http://bit.ly/1dMzZzG\nFollow \"The Late Show\" on Instagram: http://bit.ly/29wfREj\n\nWatch The Late Show with Stephen Colbert weeknights at 11:35 PM ET/10:35 PM CT. Only on CBS.\n\n---\nStephen Colbert brings his signature satire and comedy to THE LATE SHOW with STEPHEN COLBERT, the #1 show in late night, where he talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology and more. Featuring bandleader Louis Cato and \u201cTHE LATE SHOW band,\u201d the Peabody Award-winning and Emmy Award-nominated show is broadcast from the historic Ed Sullivan Theater. Stephen Colbert took over as host, executive producer and writer of THE LATE SHOW on Sept. 8, 2015."
+                    },
+                    "defaultAudioLanguage": "en"
+                },
+                "contentDetails": {
+                    "duration": "PT11M8S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 461695,
+                    "likeCount": 14894,
+                    "dislikeCount": null,
+                    "commentCount": 2029
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Politics",
+                        "https://en.wikipedia.org/wiki/Society",
+                        "https://en.wikipedia.org/wiki/Television_program"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/zaAYSjf5kss\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": null
+            }
+        ],
+        "seenCount": 488,
+        "depths": [
+            15,
+            17,
+            19,
+            21,
+            23,
+            25,
+            27,
+            29,
+            31,
+            33,
+            35,
+            37,
+            39,
+            41,
+            43,
+            45,
+            47,
+            49,
+            51,
+            53,
+            55,
+            57,
+            59,
+            61,
+            63,
+            65,
+            67,
+            69,
+            71,
+            73,
+            75,
+            77,
+            79,
+            81,
+            83,
+            85,
+            87,
+            89,
+            91,
+            93,
+            95,
+            97,
+            99,
+            101,
+            103,
+            105,
+            107,
+            109,
+            111,
+            113,
+            115,
+            117,
+            119,
+            121,
+            123,
+            125,
+            127,
+            129,
+            131,
+            133,
+            135,
+            137,
+            139,
+            141,
+            143,
+            145,
+            147,
+            149,
+            151,
+            153,
+            155,
+            157,
+            159,
+            161,
+            163,
+            165,
+            167,
+            169,
+            171,
+            173,
+            175,
+            177,
+            179,
+            181,
+            183,
+            185,
+            187,
+            189,
+            191,
+            193,
+            195,
+            197,
+            199,
+            201,
+            203,
+            205,
+            207,
+            209,
+            213,
+            215,
+            217,
+            219,
+            221,
+            223,
+            225,
+            227,
+            229,
+            231,
+            233,
+            235,
+            237,
+            239,
+            241,
+            243,
+            245,
+            247,
+            249,
+            251,
+            253,
+            255,
+            257,
+            259,
+            261,
+            263,
+            265,
+            267,
+            269,
+            271,
+            273,
+            275,
+            277,
+            279,
+            281,
+            283,
+            285,
+            287,
+            289,
+            291,
+            293,
+            295,
+            297,
+            299,
+            301,
+            303,
+            305,
+            307,
+            309,
+            311,
+            313,
+            315,
+            317,
+            319,
+            321,
+            323,
+            325,
+            327,
+            329,
+            331,
+            333,
+            335,
+            337,
+            339,
+            341,
+            343,
+            345,
+            347,
+            349,
+            351,
+            353,
+            355,
+            357,
+            359,
+            361,
+            363,
+            365,
+            367,
+            369,
+            371,
+            373,
+            375,
+            377,
+            379,
+            381,
+            383,
+            385,
+            387,
+            389,
+            391,
+            393,
+            395,
+            397,
+            399,
+            401,
+            403,
+            405,
+            407,
+            409,
+            411,
+            413,
+            415,
+            417,
+            419,
+            421,
+            423,
+            425,
+            427,
+            429,
+            431,
+            433,
+            437,
+            439,
+            441,
+            443,
+            445,
+            447,
+            449,
+            451,
+            453,
+            455,
+            457,
+            459,
+            461,
+            463,
+            465,
+            467,
+            469,
+            471,
+            473,
+            475,
+            477,
+            479,
+            481,
+            483,
+            485,
+            487,
+            489,
+            491,
+            493,
+            495,
+            497,
+            499,
+            501,
+            503,
+            505,
+            507,
+            509,
+            511,
+            513,
+            515,
+            517,
+            519,
+            521,
+            523,
+            525,
+            527,
+            529,
+            531,
+            533,
+            535,
+            537,
+            539,
+            541,
+            543,
+            545,
+            547,
+            549,
+            551,
+            553,
+            555,
+            557,
+            559,
+            561,
+            563,
+            565,
+            567,
+            569,
+            571,
+            573,
+            575,
+            577,
+            579,
+            581,
+            583,
+            585,
+            587,
+            589,
+            591,
+            593,
+            595,
+            597,
+            599,
+            601,
+            603,
+            605,
+            607,
+            609,
+            611,
+            613,
+            617,
+            619,
+            621,
+            623,
+            625,
+            627,
+            629,
+            631,
+            633,
+            635,
+            637,
+            639,
+            641,
+            643,
+            645,
+            647,
+            649,
+            651,
+            653,
+            655,
+            657,
+            659,
+            661,
+            663,
+            665,
+            667,
+            669,
+            671,
+            673,
+            675,
+            677,
+            679,
+            681,
+            683,
+            685,
+            687,
+            689,
+            691,
+            693,
+            695,
+            697,
+            699,
+            701,
+            703,
+            705,
+            707,
+            709,
+            711,
+            713,
+            715,
+            717,
+            719,
+            721,
+            723,
+            725,
+            727,
+            729,
+            731,
+            733,
+            735,
+            737,
+            739,
+            741,
+            743,
+            745,
+            747,
+            749,
+            751,
+            753,
+            755,
+            757,
+            759,
+            761,
+            763,
+            765,
+            767,
+            769,
+            771,
+            773,
+            775,
+            777,
+            779,
+            781,
+            783,
+            785,
+            787,
+            789,
+            791,
+            793,
+            795,
+            797,
+            799,
+            804,
+            806,
+            808,
+            810,
+            812,
+            814,
+            816,
+            818,
+            820,
+            822,
+            824,
+            826,
+            828,
+            830,
+            832,
+            834,
+            836,
+            838,
+            840,
+            842,
+            844,
+            846,
+            848,
+            850,
+            852,
+            854,
+            856,
+            858,
+            860,
+            862,
+            864,
+            866,
+            868,
+            870,
+            872,
+            874,
+            876,
+            878,
+            880,
+            882,
+            884,
+            886,
+            888,
+            890,
+            892,
+            894,
+            896,
+            898,
+            900,
+            902,
+            904,
+            906,
+            908,
+            910,
+            912,
+            914,
+            916,
+            918,
+            920,
+            922,
+            924,
+            926,
+            928,
+            930,
+            932,
+            934,
+            936,
+            938,
+            940,
+            942,
+            944,
+            946,
+            948,
+            950,
+            952,
+            954,
+            956,
+            958,
+            960,
+            962,
+            964,
+            966,
+            968,
+            970,
+            972,
+            974,
+            976,
+            978,
+            980,
+            982,
+            984,
+            986,
+            988,
+            990,
+            992,
+            994,
+            996,
+            998
+        ]
+    },
+    "iM2O1GbN3oA": {
+        "kind": "youtube#videoListResponse",
+        "etag": "QcT744SEwvqpHHab4z1-YmzTyGc",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "B4kI2wUY_8s0L18VaVSWYb__2YE",
+                "id": "iM2O1GbN3oA",
+                "snippet": {
+                    "publishedAt": "2024-07-12T01:00:31Z",
+                    "channelId": "UCVTyTA7-g9nopHeHbeuvpRA",
+                    "title": "Biden's High-Stakes Press Conference; Boebert\u2019s Bonkers Theory About Biden's Age: A Closer Look",
+                    "description": "Seth takes a closer look at Biden holding a major press conference as prominent Democrats, and even George Clooney, continue to express concerns about his ability to beat Trump.\n\nLate Night with Seth Meyers.  Stream now on Peacock: https://bit.ly/3erP2gX\n\nSubscribe to Late Night: http://bit.ly/LateNightSeth\n \nWatch Late Night with Seth Meyers Weeknights 12:35ET/11:35c on NBC.\n \nGet more Late Night with Seth Meyers: http://www.nbc.com/late-night-with-seth-meyers/\n \nLATE NIGHT ON SOCIAL\nFollow Late Night on Twitter: https://twitter.com/LateNightSeth\nLike Late Night on Facebook: https://www.facebook.com/LateNightSeth\nFollow Late Night Instagram: http://instagram.com/LateNightSeth\nLate Night on Tumblr: http://latenightseth.tumblr.com/\n \nLate Night with Seth Meyers on YouTube features A-list celebrity guests, memorable comedy, and topical monologue jokes.\n \nGET MORE NBC\nLike NBC: http://Facebook.com/NBC\nFollow NBC: http://Twitter.com/NBC\nNBC Tumblr: http://NBCtv.tumblr.com/\nYouTube: http://www.youtube.com/nbc\nNBC Instagram: http://instagram.com/nbc\n \nBiden's High-Stakes Press Conference; Boebert\u2019s Bonkers Theory About Biden's Age: A Closer Look - Late Night with Seth Meyers\nhttps://youtu.be/iM2O1GbN3oA\n\nLate Night with Seth Meyers\nhttp://www.youtube.com/user/latenightseth",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/iM2O1GbN3oA/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/iM2O1GbN3oA/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/iM2O1GbN3oA/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/iM2O1GbN3oA/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/iM2O1GbN3oA/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Late Night with Seth Meyers",
+                    "tags": [
+                        "NBC",
+                        "NBC TV",
+                        "television",
+                        "funny",
+                        "talk show",
+                        "comedy",
+                        "humor",
+                        "stand-up",
+                        "parody",
+                        "snl seth meyers",
+                        "host",
+                        "promo",
+                        "seth",
+                        "meyers",
+                        "weekend update",
+                        "news satire",
+                        "satire",
+                        "High-Stakes",
+                        "Press Conference",
+                        "Boebert",
+                        "Theory",
+                        "Biden's Age",
+                        "A Closer Look",
+                        "major press conference",
+                        "prominent",
+                        "Democrats",
+                        "George Clooney",
+                        "concerns",
+                        "Trump",
+                        "former president",
+                        "left wing",
+                        "right wing",
+                        "politics",
+                        "politicians",
+                        "republicans",
+                        "democrats",
+                        "president",
+                        "criminal",
+                        "trump trial",
+                        "ACL"
+                    ],
+                    "categoryId": "23",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": null,
+                    "localized": {
+                        "title": "Biden's High-Stakes Press Conference; Boebert\u2019s Bonkers Theory About Biden's Age: A Closer Look",
+                        "description": "Seth takes a closer look at Biden holding a major press conference as prominent Democrats, and even George Clooney, continue to express concerns about his ability to beat Trump.\n\nLate Night with Seth Meyers.  Stream now on Peacock: https://bit.ly/3erP2gX\n\nSubscribe to Late Night: http://bit.ly/LateNightSeth\n \nWatch Late Night with Seth Meyers Weeknights 12:35ET/11:35c on NBC.\n \nGet more Late Night with Seth Meyers: http://www.nbc.com/late-night-with-seth-meyers/\n \nLATE NIGHT ON SOCIAL\nFollow Late Night on Twitter: https://twitter.com/LateNightSeth\nLike Late Night on Facebook: https://www.facebook.com/LateNightSeth\nFollow Late Night Instagram: http://instagram.com/LateNightSeth\nLate Night on Tumblr: http://latenightseth.tumblr.com/\n \nLate Night with Seth Meyers on YouTube features A-list celebrity guests, memorable comedy, and topical monologue jokes.\n \nGET MORE NBC\nLike NBC: http://Facebook.com/NBC\nFollow NBC: http://Twitter.com/NBC\nNBC Tumblr: http://NBCtv.tumblr.com/\nYouTube: http://www.youtube.com/nbc\nNBC Instagram: http://instagram.com/nbc\n \nBiden's High-Stakes Press Conference; Boebert\u2019s Bonkers Theory About Biden's Age: A Closer Look - Late Night with Seth Meyers\nhttps://youtu.be/iM2O1GbN3oA\n\nLate Night with Seth Meyers\nhttp://www.youtube.com/user/latenightseth"
+                    },
+                    "defaultAudioLanguage": "en"
+                },
+                "contentDetails": {
+                    "duration": "PT10M26S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "true",
+                    "licensedContent": true,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": false,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 592407,
+                    "likeCount": 19217,
+                    "dislikeCount": null,
+                    "commentCount": 2870
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Politics",
+                        "https://en.wikipedia.org/wiki/Society",
+                        "https://en.wikipedia.org/wiki/Television_program"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/iM2O1GbN3oA\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": null
+            }
+        ],
+        "seenCount": 491,
+        "depths": [
+            16,
+            18,
+            20,
+            22,
+            24,
+            26,
+            28,
+            30,
+            32,
+            34,
+            36,
+            38,
+            40,
+            42,
+            44,
+            46,
+            48,
+            50,
+            52,
+            54,
+            56,
+            58,
+            60,
+            62,
+            64,
+            66,
+            68,
+            70,
+            72,
+            74,
+            76,
+            78,
+            80,
+            82,
+            84,
+            86,
+            88,
+            90,
+            92,
+            94,
+            96,
+            98,
+            100,
+            102,
+            104,
+            106,
+            108,
+            110,
+            112,
+            114,
+            116,
+            118,
+            120,
+            122,
+            124,
+            126,
+            128,
+            130,
+            132,
+            134,
+            136,
+            138,
+            140,
+            142,
+            144,
+            146,
+            148,
+            150,
+            152,
+            154,
+            156,
+            158,
+            160,
+            162,
+            164,
+            166,
+            168,
+            170,
+            172,
+            174,
+            176,
+            178,
+            180,
+            182,
+            184,
+            186,
+            188,
+            190,
+            192,
+            194,
+            196,
+            198,
+            200,
+            202,
+            204,
+            206,
+            208,
+            210,
+            212,
+            214,
+            216,
+            218,
+            220,
+            222,
+            224,
+            226,
+            228,
+            230,
+            232,
+            234,
+            236,
+            238,
+            240,
+            242,
+            244,
+            246,
+            248,
+            250,
+            252,
+            254,
+            256,
+            258,
+            260,
+            262,
+            264,
+            266,
+            268,
+            270,
+            272,
+            274,
+            276,
+            278,
+            280,
+            282,
+            284,
+            286,
+            288,
+            290,
+            292,
+            294,
+            296,
+            298,
+            300,
+            302,
+            304,
+            306,
+            308,
+            310,
+            312,
+            314,
+            316,
+            318,
+            320,
+            322,
+            324,
+            326,
+            328,
+            330,
+            332,
+            334,
+            336,
+            338,
+            340,
+            342,
+            344,
+            346,
+            348,
+            350,
+            352,
+            354,
+            356,
+            358,
+            360,
+            362,
+            364,
+            366,
+            368,
+            370,
+            372,
+            374,
+            376,
+            378,
+            380,
+            382,
+            384,
+            386,
+            388,
+            390,
+            392,
+            394,
+            396,
+            398,
+            400,
+            402,
+            404,
+            406,
+            408,
+            410,
+            412,
+            414,
+            416,
+            418,
+            420,
+            422,
+            424,
+            426,
+            428,
+            430,
+            432,
+            434,
+            436,
+            438,
+            440,
+            442,
+            444,
+            446,
+            448,
+            450,
+            452,
+            454,
+            456,
+            458,
+            460,
+            462,
+            464,
+            466,
+            468,
+            470,
+            472,
+            474,
+            476,
+            478,
+            480,
+            482,
+            484,
+            486,
+            488,
+            490,
+            492,
+            494,
+            496,
+            498,
+            500,
+            502,
+            504,
+            506,
+            508,
+            510,
+            512,
+            514,
+            516,
+            518,
+            520,
+            522,
+            524,
+            526,
+            528,
+            530,
+            532,
+            534,
+            536,
+            538,
+            540,
+            542,
+            544,
+            546,
+            548,
+            550,
+            552,
+            554,
+            556,
+            558,
+            560,
+            562,
+            564,
+            566,
+            568,
+            570,
+            572,
+            574,
+            576,
+            578,
+            580,
+            582,
+            584,
+            586,
+            588,
+            590,
+            592,
+            594,
+            596,
+            598,
+            600,
+            602,
+            604,
+            606,
+            608,
+            610,
+            612,
+            614,
+            616,
+            618,
+            620,
+            622,
+            624,
+            626,
+            628,
+            630,
+            632,
+            634,
+            636,
+            638,
+            640,
+            642,
+            644,
+            646,
+            648,
+            650,
+            652,
+            654,
+            656,
+            658,
+            660,
+            662,
+            664,
+            666,
+            668,
+            670,
+            672,
+            674,
+            676,
+            678,
+            680,
+            682,
+            684,
+            686,
+            688,
+            690,
+            692,
+            694,
+            696,
+            698,
+            700,
+            702,
+            704,
+            706,
+            708,
+            710,
+            712,
+            714,
+            716,
+            718,
+            720,
+            722,
+            724,
+            726,
+            728,
+            730,
+            732,
+            734,
+            736,
+            738,
+            740,
+            742,
+            744,
+            746,
+            748,
+            750,
+            752,
+            754,
+            756,
+            758,
+            760,
+            762,
+            764,
+            766,
+            768,
+            770,
+            772,
+            774,
+            776,
+            778,
+            780,
+            782,
+            784,
+            786,
+            788,
+            790,
+            792,
+            794,
+            796,
+            798,
+            800,
+            805,
+            807,
+            809,
+            811,
+            813,
+            815,
+            817,
+            819,
+            821,
+            823,
+            825,
+            827,
+            829,
+            831,
+            833,
+            835,
+            837,
+            839,
+            841,
+            843,
+            845,
+            847,
+            849,
+            851,
+            853,
+            855,
+            857,
+            859,
+            861,
+            863,
+            865,
+            867,
+            869,
+            871,
+            873,
+            875,
+            877,
+            879,
+            881,
+            883,
+            885,
+            887,
+            889,
+            891,
+            893,
+            895,
+            897,
+            899,
+            901,
+            903,
+            905,
+            907,
+            909,
+            911,
+            913,
+            915,
+            917,
+            919,
+            921,
+            923,
+            925,
+            927,
+            929,
+            931,
+            933,
+            935,
+            937,
+            939,
+            941,
+            943,
+            945,
+            947,
+            949,
+            951,
+            953,
+            955,
+            957,
+            959,
+            961,
+            963,
+            965,
+            967,
+            969,
+            971,
+            973,
+            975,
+            977,
+            979,
+            981,
+            983,
+            985,
+            987,
+            989,
+            991,
+            993,
+            995,
+            997,
+            999
+        ]
+    },
+    "dbAdKUho6f8": {
+        "kind": "youtube#videoListResponse",
+        "etag": "EqujO_LcTZoEoqWg3g5ddgW_2Vg",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "8wrt1R10T4D-KSzuO1zwYNWaVrE",
+                "id": "dbAdKUho6f8",
+                "snippet": {
+                    "publishedAt": "2024-07-11T22:18:10Z",
+                    "channelId": "UCQlJ7XpBtiMLKNSd4RAJmRQ",
+                    "title": "Jon Stewart on Biden 2024: It Is What It Is? | The Weekly Show With Jon Stewart",
+                    "description": "After a lackluster debate performance, calls are mounting for President Biden to drop out of the 2024 race. Yet, he insists he is still running. Is this the right move? Joining us to explore our current conundrum, we\u2019re joined by Jon Favreau and Tommy Vietor, Founders of Crooked Media, hosts of Pod Save America and Authors of \"Democracy or Else: How to Save America in 10 Easy Steps,\" as well as Bakari Sellers, CNN political commentator and Author of \"The Moment.\" Together, they hash out the best path forward for Democrats to defeat Trump this election and save democracy.\n\n#TheWeeklyShowWithJonStewart #TheWeeklyShow #JonStewart #ComedyCentral\n\nSubscribe to The Weekly Show: \nhttps://www.youtube.com/@WeeklyShowPodcast?sub_confirmation=1\n\nFollow The Weekly Show: \nX: https://www.x.com/weeklyshowpod \nInstagram: https://www.instagram.com/weeklyshowpodcast/ \nTikTok: https://www.tiktok.com/@weeklyshowpodcast\n\nWatch full episodes of The Weekly Show: https://www.youtube.com/playlist?list=PLIti_J5fVo4IiJWQluYFpz-DbWOF0mK3o\n\nAbout The Weekly Show:\nOn Mondays, Jon Stewart hosts The Daily Show, but on Thursdays he hosts The Weekly Show \u2014 A podcast featuring in- depth conversations with special guests that explores the biggest threats to our democracy. Also hear from producers and friends of the show who discuss the latest headlines, what\u2019s on their minds, and more!\n\nThe Weekly Show with Jon Stewart releases new episodes every Thursday wherever you get your podcasts & full episode is available on YouTube, Fridays at 9AM ET.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/dbAdKUho6f8/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/dbAdKUho6f8/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/dbAdKUho6f8/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/dbAdKUho6f8/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/dbAdKUho6f8/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "The Weekly Show with Jon Stewart",
+                    "tags": [
+                        "The Weekly Show with Jon Stewart",
+                        "podcast",
+                        "comedy",
+                        "Jon Stewart",
+                        "comedian",
+                        "Jon Stewart host",
+                        "Jon Stewart The Daily Show",
+                        "The Daily Show",
+                        "conversations",
+                        "special guests",
+                        "complex issues",
+                        "issues",
+                        "headlines",
+                        "the latest headlines",
+                        "The Weekly Show episodes",
+                        "episodes",
+                        "full episodes",
+                        "podcast episodes",
+                        "Jon Stewart on Biden 2024: It Is What It Is? | FULL Episode 105 | The Weekly Show With Jon Stewart",
+                        "the weekly show with jon stewart",
+                        "the weekly show podcast",
+                        "the weekly show stewart"
+                    ],
+                    "categoryId": "22",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": null,
+                    "localized": {
+                        "title": "Jon Stewart on Biden 2024: It Is What It Is? | The Weekly Show With Jon Stewart",
+                        "description": "After a lackluster debate performance, calls are mounting for President Biden to drop out of the 2024 race. Yet, he insists he is still running. Is this the right move? Joining us to explore our current conundrum, we\u2019re joined by Jon Favreau and Tommy Vietor, Founders of Crooked Media, hosts of Pod Save America and Authors of \"Democracy or Else: How to Save America in 10 Easy Steps,\" as well as Bakari Sellers, CNN political commentator and Author of \"The Moment.\" Together, they hash out the best path forward for Democrats to defeat Trump this election and save democracy.\n\n#TheWeeklyShowWithJonStewart #TheWeeklyShow #JonStewart #ComedyCentral\n\nSubscribe to The Weekly Show: \nhttps://www.youtube.com/@WeeklyShowPodcast?sub_confirmation=1\n\nFollow The Weekly Show: \nX: https://www.x.com/weeklyshowpod \nInstagram: https://www.instagram.com/weeklyshowpodcast/ \nTikTok: https://www.tiktok.com/@weeklyshowpodcast\n\nWatch full episodes of The Weekly Show: https://www.youtube.com/playlist?list=PLIti_J5fVo4IiJWQluYFpz-DbWOF0mK3o\n\nAbout The Weekly Show:\nOn Mondays, Jon Stewart hosts The Daily Show, but on Thursdays he hosts The Weekly Show \u2014 A podcast featuring in- depth conversations with special guests that explores the biggest threats to our democracy. Also hear from producers and friends of the show who discuss the latest headlines, what\u2019s on their minds, and more!\n\nThe Weekly Show with Jon Stewart releases new episodes every Thursday wherever you get your podcasts & full episode is available on YouTube, Fridays at 9AM ET."
+                    },
+                    "defaultAudioLanguage": "en-US"
+                },
+                "contentDetails": {
+                    "duration": "PT51M40S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": false,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 172332,
+                    "likeCount": 5439,
+                    "dislikeCount": null,
+                    "commentCount": 2190
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Politics",
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/dbAdKUho6f8\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": null
+            }
+        ],
+        "seenCount": 1,
+        "depths": [
+            211
+        ]
+    },
+    "IhtHuKV7v9A": {
+        "kind": "youtube#videoListResponse",
+        "etag": "pLTbKNH-2dOqvaMjd1ANjmmf9zo",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "t6X0iI67UIvET3SF3_YOnZMi7zM",
+                "id": "IhtHuKV7v9A",
+                "snippet": {
+                    "publishedAt": "2024-07-12T04:30:07Z",
+                    "channelId": "UCVTyTA7-g9nopHeHbeuvpRA",
+                    "title": "CORRECTIONS Episode 107: Week of Monday, July 8",
+                    "description": "Seth Meyers takes a moment to address some of the errors from this week of Late Night, like humans only having 20 baby teeth and cocaine being soluble.\n\nLate Night with Seth Meyers.  Stream now on Peacock: https://bit.ly/3erP2gX\n\nSubscribe to Late Night: http://bit.ly/LateNightSeth\n \nWatch Late Night with Seth Meyers Weeknights 12:35ET/11:35c on NBC.\n \nGet more Late Night with Seth Meyers: http://www.nbc.com/late-night-with-seth-meyers/\n \nLATE NIGHT ON SOCIAL\nFollow Late Night on Twitter: https://twitter.com/LateNightSeth\nLike Late Night on Facebook: https://www.facebook.com/LateNightSeth\nFollow Late Night Instagram: http://instagram.com/LateNightSeth\nLate Night on Tumblr: http://latenightseth.tumblr.com/\n \nLate Night with Seth Meyers on YouTube features A-list celebrity guests, memorable comedy, and topical monologue jokes.\n \nGET MORE NBC\nLike NBC: http://Facebook.com/NBC\nFollow NBC: http://Twitter.com/NBC\nNBC Tumblr: http://NBCtv.tumblr.com/\nYouTube: http://www.youtube.com/nbc\nNBC Instagram: http://instagram.com/nbc\n \nCORRECTIONS Episode 107: Week of Monday, July 8 - Late Night with Seth Meyers\nhttps://youtu.be/IhtHuKV7v9A\n\nLate Night with Seth Meyers\nhttp://www.youtube.com/user/latenightseth",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/IhtHuKV7v9A/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/IhtHuKV7v9A/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/IhtHuKV7v9A/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/IhtHuKV7v9A/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/IhtHuKV7v9A/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "Late Night with Seth Meyers",
+                    "tags": [
+                        "late night",
+                        "seth meyers",
+                        "late night seth meyers corrections",
+                        "corrections",
+                        "NBC",
+                        "NBC TV",
+                        "television",
+                        "funny",
+                        "talk show",
+                        "comedy",
+                        "humor",
+                        "stand-up",
+                        "parody",
+                        "snl seth meyers",
+                        "host",
+                        "promo",
+                        "seth",
+                        "meyers",
+                        "weekend update",
+                        "news satire",
+                        "satire",
+                        "errors",
+                        "Late Night",
+                        "humans",
+                        "baby teeth",
+                        "cocaine",
+                        "soluble",
+                        "late night corrections",
+                        "corrections on late night",
+                        "errors on late night",
+                        "mispronunciation",
+                        "script corrections",
+                        "script errors",
+                        "writing errors",
+                        "writing corrections",
+                        "response",
+                        "writer errors"
+                    ],
+                    "categoryId": "22",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": null,
+                    "localized": {
+                        "title": "CORRECTIONS Episode 107: Week of Monday, July 8",
+                        "description": "Seth Meyers takes a moment to address some of the errors from this week of Late Night, like humans only having 20 baby teeth and cocaine being soluble.\n\nLate Night with Seth Meyers.  Stream now on Peacock: https://bit.ly/3erP2gX\n\nSubscribe to Late Night: http://bit.ly/LateNightSeth\n \nWatch Late Night with Seth Meyers Weeknights 12:35ET/11:35c on NBC.\n \nGet more Late Night with Seth Meyers: http://www.nbc.com/late-night-with-seth-meyers/\n \nLATE NIGHT ON SOCIAL\nFollow Late Night on Twitter: https://twitter.com/LateNightSeth\nLike Late Night on Facebook: https://www.facebook.com/LateNightSeth\nFollow Late Night Instagram: http://instagram.com/LateNightSeth\nLate Night on Tumblr: http://latenightseth.tumblr.com/\n \nLate Night with Seth Meyers on YouTube features A-list celebrity guests, memorable comedy, and topical monologue jokes.\n \nGET MORE NBC\nLike NBC: http://Facebook.com/NBC\nFollow NBC: http://Twitter.com/NBC\nNBC Tumblr: http://NBCtv.tumblr.com/\nYouTube: http://www.youtube.com/nbc\nNBC Instagram: http://instagram.com/nbc\n \nCORRECTIONS Episode 107: Week of Monday, July 8 - Late Night with Seth Meyers\nhttps://youtu.be/IhtHuKV7v9A\n\nLate Night with Seth Meyers\nhttp://www.youtube.com/user/latenightseth"
+                    },
+                    "defaultAudioLanguage": "en"
+                },
+                "contentDetails": {
+                    "duration": "PT12M9S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "true",
+                    "licensedContent": true,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": false,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 34022,
+                    "likeCount": 1978,
+                    "dislikeCount": null,
+                    "commentCount": 447
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Entertainment",
+                        "https://en.wikipedia.org/wiki/Film",
+                        "https://en.wikipedia.org/wiki/Television_program"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/IhtHuKV7v9A\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": null
+            }
+        ],
+        "seenCount": 2,
+        "depths": [
+            435,
+            615
+        ]
+    },
+    "ZWHnpfBPNPY": {
+        "kind": "youtube#videoListResponse",
+        "etag": "Sc1ckpQBekxO6UqRyE1JxZEs_kg",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "WTXBS9u-tvAEwgLttHZVmLtbSBs",
+                "id": "ZWHnpfBPNPY",
+                "snippet": {
+                    "publishedAt": "2024-07-12T00:06:35Z",
+                    "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                    "title": "Calgary woman charged after dog left in hot car dies",
+                    "description": "Calgary police have charged a woman, after her dog was found dead inside a hot car on Canada Day. Jayden Wasney reports.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/ZWHnpfBPNPY/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/ZWHnpfBPNPY/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/ZWHnpfBPNPY/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/ZWHnpfBPNPY/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/ZWHnpfBPNPY/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "CityNews",
+                    "tags": [
+                        "citynewsyoutube",
+                        "region=calgary",
+                        "section=local"
+                    ],
+                    "categoryId": "25",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": null,
+                    "localized": {
+                        "title": "Calgary woman charged after dog left in hot car dies",
+                        "description": "Calgary police have charged a woman, after her dog was found dead inside a hot car on Canada Day. Jayden Wasney reports."
+                    },
+                    "defaultAudioLanguage": null
+                },
+                "contentDetails": {
+                    "duration": "PT1M58S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 17926,
+                    "likeCount": 261,
+                    "dislikeCount": null,
+                    "commentCount": 240
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Pet",
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/ZWHnpfBPNPY\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": null
+            }
+        ],
+        "seenCount": 1,
+        "depths": [
+            801
+        ]
+    },
+    "k4rKL3Gx85c": {
+        "kind": "youtube#videoListResponse",
+        "etag": "sLrKnmkMfEF_UgSG7H1v3qA2DQ0",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "drZYzAH_MZolTJrqE5gE-D_UL5E",
+                "id": "k4rKL3Gx85c",
+                "snippet": {
+                    "publishedAt": "2024-07-11T14:29:47Z",
+                    "channelId": "UCjkETDTi-OBxrN4z5lvaL5A",
+                    "title": "CHCH Morning Live",
+                    "description": "From local news and traffic, to sports scores and a whole lot more, Morning Live has everything you need to know to start your day. \n\nTune in weekdays from 6am to 10am for your daily dose of news, information, and entertainment.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/k4rKL3Gx85c/default_live.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/k4rKL3Gx85c/mqdefault_live.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/k4rKL3Gx85c/hqdefault_live.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/k4rKL3Gx85c/sddefault_live.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/k4rKL3Gx85c/maxresdefault_live.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "CHCH News",
+                    "tags": [
+                        "chch news",
+                        "chch tv",
+                        "chch news at 6",
+                        "chch",
+                        "chch news live streaming",
+                        "chch news hamilton today",
+                        "hamilton ontario",
+                        "hamilton news",
+                        "halton news",
+                        "niagara news",
+                        "chch live",
+                        "chch evening news",
+                        "chch morning live",
+                        "morning live",
+                        "chch morning live stream",
+                        "breakfast television",
+                        "ch ch",
+                        "chch late news",
+                        "chch news at 11",
+                        "news live stream",
+                        "canadian news",
+                        "canada",
+                        "annette hamm",
+                        "tim bolen",
+                        "weather",
+                        "traffic",
+                        "sports",
+                        "morning show",
+                        "Oakville",
+                        "Burlington",
+                        "Hamilton",
+                        "Niagara",
+                        "St Catharines"
+                    ],
+                    "categoryId": "25",
+                    "liveBroadcastContent": "live",
+                    "defaultLanguage": null,
+                    "localized": {
+                        "title": "CHCH Morning Live",
+                        "description": "From local news and traffic, to sports scores and a whole lot more, Morning Live has everything you need to know to start your day. \n\nTune in weekdays from 6am to 10am for your daily dose of news, information, and entertainment."
+                    },
+                    "defaultAudioLanguage": "en-CA"
+                },
+                "contentDetails": {
+                    "duration": "P0D",
+                    "dimension": "2d",
+                    "definition": "sd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "uploaded",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 485,
+                    "likeCount": 6,
+                    "dislikeCount": null,
+                    "commentCount": null
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"360\" src=\"//www.youtube.com/embed/k4rKL3Gx85c\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": {
+                    "actualStartTime": "2024-07-12T10:00:10Z",
+                    "actualEndTime": null,
+                    "scheduledStartTime": "2024-07-12T10:00:00Z",
+                    "scheduledEndTime": null,
+                    "concurrentViewers": 885,
+                    "activeLiveChatId": null
+                }
+            }
+        ],
+        "seenCount": 1,
+        "depths": [
+            802
+        ]
+    }
+}

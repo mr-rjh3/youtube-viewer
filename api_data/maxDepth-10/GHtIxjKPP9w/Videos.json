@@ -1,0 +1,1216 @@
+{
+    "GHtIxjKPP9w": {
+        "kind": "youtube#videoListResponse",
+        "etag": "ci8RAgk4CRZTqXDDNpg0dvfc4fE",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "bXLkMVn8dbgzET-Dv6Pt-uSYO1s",
+                "id": "GHtIxjKPP9w",
+                "snippet": {
+                    "publishedAt": "2024-07-11T04:49:42Z",
+                    "channelId": "UCWJ2lWNubArHWmf3FIHbfcQ",
+                    "title": "CANADA vs USA | USAB SHOWCASE | FULL GAME HIGHLIGHTS | July 10, 2024",
+                    "description": "Team USA defeated Team Canada, 86-72.\n\nAnthony Edwards led the United States with 13 points and 3 rebounds while Stephen Curry (12 points, 3 assists) and Anthony Davis (10 points, 11 rebounds) added 22 points.\n\nRJ Barrett had 12 points and 5 rebounds as Shai Gilgeous-Alexander added 10 points and 4 rebounds for Canada.\n\nNever miss a moment with the latest news, trending stories and highlights to bring you closer to your favorite players and teams.\nDownload now: https://link.nba.com/NBAYouTube",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/GHtIxjKPP9w/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/GHtIxjKPP9w/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/GHtIxjKPP9w/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/GHtIxjKPP9w/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/GHtIxjKPP9w/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "NBA",
+                    "tags": [
+                        "Basketball",
+                        "G League",
+                        "NBA",
+                        "game-_010b602c-5ce7-42b0-abee-74cc9fb217c6"
+                    ],
+                    "categoryId": "17",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": null,
+                    "localized": {
+                        "title": "CANADA vs USA | USAB SHOWCASE | FULL GAME HIGHLIGHTS | July 10, 2024",
+                        "description": "Team USA defeated Team Canada, 86-72.\n\nAnthony Edwards led the United States with 13 points and 3 rebounds while Stephen Curry (12 points, 3 assists) and Anthony Davis (10 points, 11 rebounds) added 22 points.\n\nRJ Barrett had 12 points and 5 rebounds as Shai Gilgeous-Alexander added 10 points and 4 rebounds for Canada.\n\nNever miss a moment with the latest news, trending stories and highlights to bring you closer to your favorite players and teams.\nDownload now: https://link.nba.com/NBAYouTube"
+                    },
+                    "defaultAudioLanguage": null
+                },
+                "contentDetails": {
+                    "duration": "PT10M45S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "regionRestriction": {
+                        "allowed": null,
+                        "blocked": [
+                            "CN",
+                            "TW"
+                        ]
+                    },
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 5112988,
+                    "likeCount": 85266,
+                    "dislikeCount": null,
+                    "commentCount": 6773
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Basketball",
+                        "https://en.wikipedia.org/wiki/Sport"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/GHtIxjKPP9w\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": null
+            }
+        ],
+        "seenCount": 1,
+        "depths": [
+            0
+        ]
+    },
+    "lYsarAGm0-U": {
+        "kind": "youtube#videoListResponse",
+        "etag": "yn5XiNv9EeiTuT3cVgdonCqtITw",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "swMQjd4POBoO7OJncAIvczNtvVE",
+                "id": "lYsarAGm0-U",
+                "snippet": {
+                    "publishedAt": "2024-07-11T15:42:40Z",
+                    "channelId": "UCLXzq85ijg2LwJWFrz4pkmw",
+                    "title": "Anthony Edwards scores 13 points, LeBron-Steph combine for 19 in 86-72 win vs. Canada | UNDISPUTED",
+                    "description": "Team USA held their first exhibition match of five before they travel to Paris for the 2024 Summer Olympics. They defeated Canada 86-72, with Anthony Edwards leading all scorers with 13 points off the bench, while LeBron James and Steph Curry combined for 19. Shai Gilgeous-Alexander had 10 points off 3-of-10 shooting. Skip Bayless, Paul Pierce and Keyshawn Johnson react to Team USA's win.\n\n#Undisputed #Paris2024 #TeamUSA\n\nThe all-new FOX Sports App, built for the modern sports fan: https://tinyurl.com/y4uouolb\n\n\u25ba UNDISPUTED\u2019s YouTube channel: https://www.youtube.com/@UndisputedOnFS1\n\u25ba First Things First\u2019s YouTube channel: https://www.youtube.com/@FirstThingsFirst\n\u25ba The Herd with Colin Cowherd\u2019s YouTube channel: https://www.youtube.com/@TheHerdOnFS1\n\u25ba SPEAK's YouTube channel: https://www.youtube.com/c/SpeakOnFS1\n\u25ba The Carton Show\u2019s YouTube Channel: http://sprtspod.fox/SubscribeCartonShow\n\u25ba The Skip Bayless Show YouTube Channel: http://sprtspod.fox/SUBSCRIBESkipShow\n\u25ba What's Wright? with Nick Wright YouTube Channel: http://sprtspod.fox/whatswright/youtube\n\u25ba All Facts No Brakes with Keyshawn Johnson YouTube Channel: https://www.youtube.com/@AllFactsPod\n\nSee more from UNDISPUTED: http://foxs.pt/UNDISPUTEDFoxSports\nLike UNDISPUTED on Facebook: http://foxs.pt/UNDISPUTEDFacebook\nFollow UNDISPUTED on Twitter: http://foxs.pt/UNDISPUTEDTwitter\nFollow UNDISPUTED on Instagram: http://foxs.pt/UNDISPUTEDInstagram\nFollow UNDISPUTED on TikTok: https://www.tiktok.com/@undisputedonfs1?lang=en\nFollow Skip Bayless on Twitter: http://foxs.pt/SkipBaylessTwitter\n\nAnthony Edwards scores 13 points, LeBron-Steph combine for 19 in 86-72 win vs. Canada | UNDISPUTED\nhttps://youtu.be/lYsarAGm0-U\n\nUndisputed\nhttps://www.youtube.com/c/UndisputedOnFS1",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/lYsarAGm0-U/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/lYsarAGm0-U/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/lYsarAGm0-U/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/lYsarAGm0-U/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/lYsarAGm0-U/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "UNDISPUTED",
+                    "tags": [
+                        "team usa",
+                        "lebron james",
+                        "anthony edwards",
+                        "steph curry",
+                        "fs1",
+                        "undisputed",
+                        "fox sports",
+                        "fox sports 1",
+                        "sports",
+                        "sports talk",
+                        "sports news",
+                        "nba",
+                        "basketball",
+                        "the association",
+                        "eastern conference",
+                        "western conference",
+                        "sports show",
+                        "sports debate",
+                        "nba news",
+                        "nba talk",
+                        "basketball talk",
+                        "basketball news",
+                        "2024",
+                        "paris",
+                        "paris 2024",
+                        "olympics",
+                        "olympics 2024",
+                        "paris olympics",
+                        "lebron",
+                        "curry",
+                        "antman",
+                        "canada",
+                        "team canada",
+                        "usa vs canada"
+                    ],
+                    "categoryId": "17",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": null,
+                    "localized": {
+                        "title": "Anthony Edwards scores 13 points, LeBron-Steph combine for 19 in 86-72 win vs. Canada | UNDISPUTED",
+                        "description": "Team USA held their first exhibition match of five before they travel to Paris for the 2024 Summer Olympics. They defeated Canada 86-72, with Anthony Edwards leading all scorers with 13 points off the bench, while LeBron James and Steph Curry combined for 19. Shai Gilgeous-Alexander had 10 points off 3-of-10 shooting. Skip Bayless, Paul Pierce and Keyshawn Johnson react to Team USA's win.\n\n#Undisputed #Paris2024 #TeamUSA\n\nThe all-new FOX Sports App, built for the modern sports fan: https://tinyurl.com/y4uouolb\n\n\u25ba UNDISPUTED\u2019s YouTube channel: https://www.youtube.com/@UndisputedOnFS1\n\u25ba First Things First\u2019s YouTube channel: https://www.youtube.com/@FirstThingsFirst\n\u25ba The Herd with Colin Cowherd\u2019s YouTube channel: https://www.youtube.com/@TheHerdOnFS1\n\u25ba SPEAK's YouTube channel: https://www.youtube.com/c/SpeakOnFS1\n\u25ba The Carton Show\u2019s YouTube Channel: http://sprtspod.fox/SubscribeCartonShow\n\u25ba The Skip Bayless Show YouTube Channel: http://sprtspod.fox/SUBSCRIBESkipShow\n\u25ba What's Wright? with Nick Wright YouTube Channel: http://sprtspod.fox/whatswright/youtube\n\u25ba All Facts No Brakes with Keyshawn Johnson YouTube Channel: https://www.youtube.com/@AllFactsPod\n\nSee more from UNDISPUTED: http://foxs.pt/UNDISPUTEDFoxSports\nLike UNDISPUTED on Facebook: http://foxs.pt/UNDISPUTEDFacebook\nFollow UNDISPUTED on Twitter: http://foxs.pt/UNDISPUTEDTwitter\nFollow UNDISPUTED on Instagram: http://foxs.pt/UNDISPUTEDInstagram\nFollow UNDISPUTED on TikTok: https://www.tiktok.com/@undisputedonfs1?lang=en\nFollow Skip Bayless on Twitter: http://foxs.pt/SkipBaylessTwitter\n\nAnthony Edwards scores 13 points, LeBron-Steph combine for 19 in 86-72 win vs. Canada | UNDISPUTED\nhttps://youtu.be/lYsarAGm0-U\n\nUndisputed\nhttps://www.youtube.com/c/UndisputedOnFS1"
+                    },
+                    "defaultAudioLanguage": "en"
+                },
+                "contentDetails": {
+                    "duration": "PT22M42S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": false,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 266380,
+                    "likeCount": 3024,
+                    "dislikeCount": null,
+                    "commentCount": 1167
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Association_football",
+                        "https://en.wikipedia.org/wiki/Basketball",
+                        "https://en.wikipedia.org/wiki/Sport"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/lYsarAGm0-U\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": null
+            }
+        ],
+        "seenCount": 1,
+        "depths": [
+            1
+        ]
+    },
+    "Dbn-dEA-0HI": {
+        "kind": "youtube#videoListResponse",
+        "etag": "lJJmVKb8padCpVsGd5wfHCs01z0",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "93-g4G-jPP8ZmX_Z-zpT6ZWlreI",
+                "id": "Dbn-dEA-0HI",
+                "snippet": {
+                    "publishedAt": "2024-07-11T14:00:06Z",
+                    "channelId": "UCT3wF21Qx0d0HmuiCzji8Lg",
+                    "title": "Jayson Tatum on Becoming A Champion, Team USA, Michael Jordan\u2019s Advice Before NBA Finals, & More",
+                    "description": "Fresh off of winning his first NBA championship and gearing up for an Olympic run, Jayson Tatum stopped by 7PM in Brooklyn to chop it up with Carmelo Anthony and The Kid Mero about his Finals run, the challenges of becoming \u2018the hunted\u2019, the hierarchy of Team USA and much more. Tap In! \n\n0:00 Start\n2:00 Did You Get A Chance To Enjoy The Chip?\n3:14 Finally Winning A Championship Feeling \n7:50 Playing in the Olympics, Again\n10:10 Team USA Experience \n13:45 Cooper Flag vs Team USA \n17:45 Jayson Tatum\u2019s 7PM Moment\n20:58 Relationship with Jaylen Brown \n26:30 New Competition In The Division Next Season \n30:40 Kobe Bryant\u2019s Impact \n34:55 Michael Jordan Stories \n41:03 FWIorFOH\n.\n.\n.\nNew episodes drop every Thursday. \n\nSubscribe to the podcast on Spotify, Apple, or wherever you get your podcasts, and follow the show on Instagram, Twitter, and TikTok for all the best moments from the show.\n\nDownload the full podcast here:\n\nSpotify: https://open.spotify.com/show/4sEy5p87mJ002F3NGsKIpq\n\nApple: https://podcasts.apple.com/us/podcast/7pm-in-brooklyn-with-carmelo-anthony-the-kid-mero/id1719570183\n\nAmazon: https://music.amazon.com/podcasts/6f088d77-2522-4c50-8d49-2792070534c8/7pm-in-brooklyn-with-carmelo-anthony-the-kid-mero\n\nGo to https://drinkAG1.com/7pm to get a FREE 1-year supply of Vitamin D3+K2 and 5 AG1 travel packs with your first purchase.\n\nFollow 7PM in Brooklyn on Social Media: hoo.be/7pminbrooklyn",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Dbn-dEA-0HI/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Dbn-dEA-0HI/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Dbn-dEA-0HI/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/Dbn-dEA-0HI/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/Dbn-dEA-0HI/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "7PM in Brooklyn with Carmelo Anthony & Kid Mero",
+                    "tags": [
+                        "Carmelo Anthony",
+                        "The Kid Mero",
+                        "New York Knicks",
+                        "7PM in Brooklyn"
+                    ],
+                    "categoryId": "22",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": null,
+                    "localized": {
+                        "title": "Jayson Tatum on Becoming A Champion, Team USA, Michael Jordan\u2019s Advice Before NBA Finals, & More",
+                        "description": "Fresh off of winning his first NBA championship and gearing up for an Olympic run, Jayson Tatum stopped by 7PM in Brooklyn to chop it up with Carmelo Anthony and The Kid Mero about his Finals run, the challenges of becoming \u2018the hunted\u2019, the hierarchy of Team USA and much more. Tap In! \n\n0:00 Start\n2:00 Did You Get A Chance To Enjoy The Chip?\n3:14 Finally Winning A Championship Feeling \n7:50 Playing in the Olympics, Again\n10:10 Team USA Experience \n13:45 Cooper Flag vs Team USA \n17:45 Jayson Tatum\u2019s 7PM Moment\n20:58 Relationship with Jaylen Brown \n26:30 New Competition In The Division Next Season \n30:40 Kobe Bryant\u2019s Impact \n34:55 Michael Jordan Stories \n41:03 FWIorFOH\n.\n.\n.\nNew episodes drop every Thursday. \n\nSubscribe to the podcast on Spotify, Apple, or wherever you get your podcasts, and follow the show on Instagram, Twitter, and TikTok for all the best moments from the show.\n\nDownload the full podcast here:\n\nSpotify: https://open.spotify.com/show/4sEy5p87mJ002F3NGsKIpq\n\nApple: https://podcasts.apple.com/us/podcast/7pm-in-brooklyn-with-carmelo-anthony-the-kid-mero/id1719570183\n\nAmazon: https://music.amazon.com/podcasts/6f088d77-2522-4c50-8d49-2792070534c8/7pm-in-brooklyn-with-carmelo-anthony-the-kid-mero\n\nGo to https://drinkAG1.com/7pm to get a FREE 1-year supply of Vitamin D3+K2 and 5 AG1 travel packs with your first purchase.\n\nFollow 7PM in Brooklyn on Social Media: hoo.be/7pminbrooklyn"
+                    },
+                    "defaultAudioLanguage": null
+                },
+                "contentDetails": {
+                    "duration": "PT51M28S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 95447,
+                    "likeCount": 3474,
+                    "dislikeCount": null,
+                    "commentCount": 397
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Basketball",
+                        "https://en.wikipedia.org/wiki/Sport"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/Dbn-dEA-0HI\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": {
+                    "actualStartTime": "2024-07-11T14:00:06Z",
+                    "actualEndTime": "2024-07-11T14:53:34Z",
+                    "scheduledStartTime": "2024-07-11T14:00:00Z",
+                    "scheduledEndTime": null,
+                    "concurrentViewers": null,
+                    "activeLiveChatId": null
+                }
+            }
+        ],
+        "seenCount": 1,
+        "depths": [
+            2
+        ]
+    },
+    "Ej2Wb5-vGC8": {
+        "kind": "youtube#videoListResponse",
+        "etag": "qNPh0-c7FNt-PAZsZvB_m53_IOc",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "ywWOrKigvfx9KKXzITS_3xG639k",
+                "id": "Ej2Wb5-vGC8",
+                "snippet": {
+                    "publishedAt": "2024-07-05T14:00:07Z",
+                    "channelId": "UCT3wF21Qx0d0HmuiCzji8Lg",
+                    "title": "Kemba Walker Reflects on Career, Mentorship from Michael Jordan, Iconic UCONN Run & More",
+                    "description": "New York City's own Kemba Walker stopped by 7PM in Brooklyn to exclusively announce his retirement from the NBA, reflect on his career, share stories of Michael Jordan's mentorship, his own historic run at UCONN, and much more. Tap IN! \n\n0:00 Start\n9:00 Being A Top NY Point Guard\n13:35 Growing Up In The Bronx\n18:55 Deciding To Go To UConn \n21:45 Kemba Stepback Season\n29:55 Harder to win a NCAA Championship or NBA Championship?\n36:00 What\u2019s Next After Retiring?\n38:00 7 PM Moment \n42:30 Mindset During End NBA Career \n49:19 Playing for the Knicks & Boston  \n51:20 Friendships In The NBA\n52:25 Bubble Experience \n59:45 Playing for Michael Jordan \n1:07:50 FWIorFOH\n.\n.\n.\nNew episodes drop every Thursday. \n\nSubscribe to the podcast on Spotify, Apple, or wherever you get your podcasts, and follow the show on Instagram, Twitter, and TikTok for all the best moments from the show.\n\nDownload the full podcast here:\n\nSpotify: https://open.spotify.com/show/4sEy5p87mJ002F3NGsKIpq\n\nApple: https://podcasts.apple.com/us/podcast/7pm-in-brooklyn-with-carmelo-anthony-the-kid-mero/id1719570183\n\nAmazon: https://music.amazon.com/podcasts/6f088d77-2522-4c50-8d49-2792070534c8/7pm-in-brooklyn-with-carmelo-anthony-the-kid-mero\n\nFollow 7PM in Brooklyn on Social Media: hoo.be/7pminbrooklyn",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Ej2Wb5-vGC8/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Ej2Wb5-vGC8/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Ej2Wb5-vGC8/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/Ej2Wb5-vGC8/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/Ej2Wb5-vGC8/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "7PM in Brooklyn with Carmelo Anthony & Kid Mero",
+                    "tags": [
+                        "Carmelo Anthony",
+                        "The Kid Mero",
+                        "New York Knicks",
+                        "7PM in Brooklyn"
+                    ],
+                    "categoryId": "22",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": null,
+                    "localized": {
+                        "title": "Kemba Walker Reflects on Career, Mentorship from Michael Jordan, Iconic UCONN Run & More",
+                        "description": "New York City's own Kemba Walker stopped by 7PM in Brooklyn to exclusively announce his retirement from the NBA, reflect on his career, share stories of Michael Jordan's mentorship, his own historic run at UCONN, and much more. Tap IN! \n\n0:00 Start\n9:00 Being A Top NY Point Guard\n13:35 Growing Up In The Bronx\n18:55 Deciding To Go To UConn \n21:45 Kemba Stepback Season\n29:55 Harder to win a NCAA Championship or NBA Championship?\n36:00 What\u2019s Next After Retiring?\n38:00 7 PM Moment \n42:30 Mindset During End NBA Career \n49:19 Playing for the Knicks & Boston  \n51:20 Friendships In The NBA\n52:25 Bubble Experience \n59:45 Playing for Michael Jordan \n1:07:50 FWIorFOH\n.\n.\n.\nNew episodes drop every Thursday. \n\nSubscribe to the podcast on Spotify, Apple, or wherever you get your podcasts, and follow the show on Instagram, Twitter, and TikTok for all the best moments from the show.\n\nDownload the full podcast here:\n\nSpotify: https://open.spotify.com/show/4sEy5p87mJ002F3NGsKIpq\n\nApple: https://podcasts.apple.com/us/podcast/7pm-in-brooklyn-with-carmelo-anthony-the-kid-mero/id1719570183\n\nAmazon: https://music.amazon.com/podcasts/6f088d77-2522-4c50-8d49-2792070534c8/7pm-in-brooklyn-with-carmelo-anthony-the-kid-mero\n\nFollow 7PM in Brooklyn on Social Media: hoo.be/7pminbrooklyn"
+                    },
+                    "defaultAudioLanguage": null
+                },
+                "contentDetails": {
+                    "duration": "PT1H18M31S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 109829,
+                    "likeCount": 2464,
+                    "dislikeCount": null,
+                    "commentCount": 208
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Basketball",
+                        "https://en.wikipedia.org/wiki/Sport"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/Ej2Wb5-vGC8\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": {
+                    "actualStartTime": "2024-07-05T14:00:07Z",
+                    "actualEndTime": "2024-07-05T15:20:36Z",
+                    "scheduledStartTime": "2024-07-05T14:00:00Z",
+                    "scheduledEndTime": null,
+                    "concurrentViewers": null,
+                    "activeLiveChatId": null
+                }
+            }
+        ],
+        "seenCount": 1,
+        "depths": [
+            3
+        ]
+    },
+    "c0umcBc62so": {
+        "kind": "youtube#videoListResponse",
+        "etag": "HoUpTJyJS1J1dM0Vdkrgu2tAb28",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "xdUkCi2Dqv_L_wnR-FSAzvtXLI4",
+                "id": "c0umcBc62so",
+                "snippet": {
+                    "publishedAt": "2024-01-25T18:00:11Z",
+                    "channelId": "UCT3wF21Qx0d0HmuiCzji8Lg",
+                    "title": "The GOAT Case for Durant, Kobe Relationship, NBA's Newest Rivalry & NFL Talk with Kayvon Thibodeaux",
+                    "description": "On this week\u2019s episode of 7PM in Brooklyn, Carmelo Anthony and The Kid Mero detail whether or not Kevin Durant is valid in his thoughts of wanting to be involved in the GOAT conversation; they also share their thoughts on the budding rivalry between Anthony Edwards and Shai Gilgeous-Alexander; and celebrate the life and legacy of Kobe Bryant.\n\nFinally, Giants star Kayvon Thibodeaux stops by to kick it with the fellas to discuss the Giants, the NFL Playoffs, and what makes Lamar Jackson special. Tap In! #carmeloanthony #thekidmero \n.\n.\n.\nNew episodes drop every Thursday. \n\nSubscribe to the podcast on Spotify, Apple, or wherever you get your podcasts, and follow the show on Instagram, Twitter, and TikTok for all the best moments from the show.\n\nDownload the full podcast here:\n\nSpotify: https://open.spotify.com/show/4sEy5p87mJ002F3NGsKIpq\n\nApple: https://podcasts.apple.com/us/podcast/7pm-in-brooklyn-with-carmelo-anthony-the-kid-mero/id1719570183\n\nAmazon: https://music.amazon.com/podcasts/6f088d77-2522-4c50-8d49-2792070534c8/7pm-in-brooklyn-with-carmelo-anthony-the-kid-mero\n\nFollow 7PM in Brooklyn on Social Media: hoo.be/7pminbrooklyn\n\n(0:00)- Intro \n(0:45) - Melo & Peyton Manning Connect\n(3:50) - 3TTD: The GOAT Case for Kevin Durant\n(17:17) - Who Cares More About GOAT Status?: MJ or LeBron?\n(21:59) 3TTD: Ant Edwards vs. Shai Gilgeous-Alexander\n(29:40) - Melo Explains the Importance of \u2018The Curve\u2019 in NBA Career\n(34:08) - 3TTD: Melo\u2019s Kobe Bryant Memories\n(36:50) - Melo & Kobe\u2019s Team USA Camaraderie\n(40:40) - Kobe\u2019s Intelligence w/ Black Mamba Nickname\n(42:44) - Melo\u2019s Memory of \u201909 WCF\n(53:15) - Kayvon Thibodeaux Joins 7PM in Brooklyn\n(1:52:47) - FWIorFOH: Fat Joe the Love Doctor\n(1:57:02) - FWIorFOH: Gillie Da Kid vs. Jamal Crawford\n(2:06:55) - FWIorFOH: Is Being A Bad Texter A Deal Breaker?\n(2:23:20) - Melo\u2019s Emotional Response to NBA\u2019s Top 75 Selection\n(2:29:58) - Outro",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/c0umcBc62so/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/c0umcBc62so/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/c0umcBc62so/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/c0umcBc62so/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/c0umcBc62so/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "7PM in Brooklyn with Carmelo Anthony & Kid Mero",
+                    "tags": [
+                        "Carmelo Anthony",
+                        "The Kid Mero",
+                        "New York Knicks",
+                        "7PM in Brooklyn"
+                    ],
+                    "categoryId": "22",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": null,
+                    "localized": {
+                        "title": "The GOAT Case for Durant, Kobe Relationship, NBA's Newest Rivalry & NFL Talk with Kayvon Thibodeaux",
+                        "description": "On this week\u2019s episode of 7PM in Brooklyn, Carmelo Anthony and The Kid Mero detail whether or not Kevin Durant is valid in his thoughts of wanting to be involved in the GOAT conversation; they also share their thoughts on the budding rivalry between Anthony Edwards and Shai Gilgeous-Alexander; and celebrate the life and legacy of Kobe Bryant.\n\nFinally, Giants star Kayvon Thibodeaux stops by to kick it with the fellas to discuss the Giants, the NFL Playoffs, and what makes Lamar Jackson special. Tap In! #carmeloanthony #thekidmero \n.\n.\n.\nNew episodes drop every Thursday. \n\nSubscribe to the podcast on Spotify, Apple, or wherever you get your podcasts, and follow the show on Instagram, Twitter, and TikTok for all the best moments from the show.\n\nDownload the full podcast here:\n\nSpotify: https://open.spotify.com/show/4sEy5p87mJ002F3NGsKIpq\n\nApple: https://podcasts.apple.com/us/podcast/7pm-in-brooklyn-with-carmelo-anthony-the-kid-mero/id1719570183\n\nAmazon: https://music.amazon.com/podcasts/6f088d77-2522-4c50-8d49-2792070534c8/7pm-in-brooklyn-with-carmelo-anthony-the-kid-mero\n\nFollow 7PM in Brooklyn on Social Media: hoo.be/7pminbrooklyn\n\n(0:00)- Intro \n(0:45) - Melo & Peyton Manning Connect\n(3:50) - 3TTD: The GOAT Case for Kevin Durant\n(17:17) - Who Cares More About GOAT Status?: MJ or LeBron?\n(21:59) 3TTD: Ant Edwards vs. Shai Gilgeous-Alexander\n(29:40) - Melo Explains the Importance of \u2018The Curve\u2019 in NBA Career\n(34:08) - 3TTD: Melo\u2019s Kobe Bryant Memories\n(36:50) - Melo & Kobe\u2019s Team USA Camaraderie\n(40:40) - Kobe\u2019s Intelligence w/ Black Mamba Nickname\n(42:44) - Melo\u2019s Memory of \u201909 WCF\n(53:15) - Kayvon Thibodeaux Joins 7PM in Brooklyn\n(1:52:47) - FWIorFOH: Fat Joe the Love Doctor\n(1:57:02) - FWIorFOH: Gillie Da Kid vs. Jamal Crawford\n(2:06:55) - FWIorFOH: Is Being A Bad Texter A Deal Breaker?\n(2:23:20) - Melo\u2019s Emotional Response to NBA\u2019s Top 75 Selection\n(2:29:58) - Outro"
+                    },
+                    "defaultAudioLanguage": null
+                },
+                "contentDetails": {
+                    "duration": "PT2H31M6S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 205342,
+                    "likeCount": 2263,
+                    "dislikeCount": null,
+                    "commentCount": 259
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Basketball",
+                        "https://en.wikipedia.org/wiki/Sport"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/c0umcBc62so\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": {
+                    "actualStartTime": "2024-01-25T18:00:11Z",
+                    "actualEndTime": "2024-01-25T20:32:11Z",
+                    "scheduledStartTime": "2024-01-25T18:00:00Z",
+                    "scheduledEndTime": null,
+                    "concurrentViewers": null,
+                    "activeLiveChatId": null
+                }
+            }
+        ],
+        "seenCount": 1,
+        "depths": [
+            4
+        ]
+    },
+    "dzNW96I86-8": {
+        "kind": "youtube#videoListResponse",
+        "etag": "I5Dw2O3WlsSPJbtUtc3E9xDL63o",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "kgFnNiMpKPQh3XQpV9ryJAK8OEU",
+                "id": "dzNW96I86-8",
+                "snippet": {
+                    "publishedAt": "2024-02-01T18:00:10Z",
+                    "channelId": "UCT3wF21Qx0d0HmuiCzji8Lg",
+                    "title": "Mikal Bridges Gets Real On NBA Scoring Boom, Steph vs. Sabrina Shootout, Crazy NBA Diet & More",
+                    "description": "On this week\u2019s episode of 7PM in Brooklyn, the guys are joined by Brooklyn Nets Forward Mikal Bridges; they explore the scoring revolution in today\u2019s NBA and if it\u2019s a byproduct of poor defense of generational skill. They also discuss the upcoming 3-point contest battle between Stephen Curry & Sabrina Ionescu and ask Mikal how he handles being a Net in a Knicks city. Tap In!\n.\n.\n.\nNew episodes drop every Thursday. \n\nSubscribe to the podcast on Spotify, Apple, or wherever you get your podcasts, and follow the show on Instagram, Twitter, and TikTok for all the best moments from the show.\n\nDownload the full podcast here:\n\nSpotify: https://open.spotify.com/show/4sEy5p87mJ002F3NGsKIpq\n\nApple: https://podcasts.apple.com/us/podcast/7pm-in-brooklyn-with-carmelo-anthony-the-kid-mero/id1719570183\n\nAmazon: https://music.amazon.com/podcasts/6f088d77-2522-4c50-8d49-2792070534c8/7pm-in-brooklyn-with-carmelo-anthony-the-kid-mero\n\nFollow 7PM in Brooklyn on Social Media: hoo.be/7pminbrooklyn\n\n(0:00) - Intro\n(10:07) - Mikal Bridges Joins the Show",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/dzNW96I86-8/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/dzNW96I86-8/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/dzNW96I86-8/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/dzNW96I86-8/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/dzNW96I86-8/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "7PM in Brooklyn with Carmelo Anthony & Kid Mero",
+                    "tags": [
+                        "Carmelo Anthony",
+                        "The Kid Mero",
+                        "New York Knicks",
+                        "7PM in Brooklyn"
+                    ],
+                    "categoryId": "22",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": null,
+                    "localized": {
+                        "title": "Mikal Bridges Gets Real On NBA Scoring Boom, Steph vs. Sabrina Shootout, Crazy NBA Diet & More",
+                        "description": "On this week\u2019s episode of 7PM in Brooklyn, the guys are joined by Brooklyn Nets Forward Mikal Bridges; they explore the scoring revolution in today\u2019s NBA and if it\u2019s a byproduct of poor defense of generational skill. They also discuss the upcoming 3-point contest battle between Stephen Curry & Sabrina Ionescu and ask Mikal how he handles being a Net in a Knicks city. Tap In!\n.\n.\n.\nNew episodes drop every Thursday. \n\nSubscribe to the podcast on Spotify, Apple, or wherever you get your podcasts, and follow the show on Instagram, Twitter, and TikTok for all the best moments from the show.\n\nDownload the full podcast here:\n\nSpotify: https://open.spotify.com/show/4sEy5p87mJ002F3NGsKIpq\n\nApple: https://podcasts.apple.com/us/podcast/7pm-in-brooklyn-with-carmelo-anthony-the-kid-mero/id1719570183\n\nAmazon: https://music.amazon.com/podcasts/6f088d77-2522-4c50-8d49-2792070534c8/7pm-in-brooklyn-with-carmelo-anthony-the-kid-mero\n\nFollow 7PM in Brooklyn on Social Media: hoo.be/7pminbrooklyn\n\n(0:00) - Intro\n(10:07) - Mikal Bridges Joins the Show"
+                    },
+                    "defaultAudioLanguage": null
+                },
+                "contentDetails": {
+                    "duration": "PT1H28M31S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 109007,
+                    "likeCount": 2743,
+                    "dislikeCount": null,
+                    "commentCount": 272
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Basketball",
+                        "https://en.wikipedia.org/wiki/Sport"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/dzNW96I86-8\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": {
+                    "actualStartTime": "2024-02-01T18:00:10Z",
+                    "actualEndTime": "2024-02-01T19:30:37Z",
+                    "scheduledStartTime": "2024-02-01T18:00:00Z",
+                    "scheduledEndTime": null,
+                    "concurrentViewers": null,
+                    "activeLiveChatId": null
+                }
+            }
+        ],
+        "seenCount": 1,
+        "depths": [
+            5
+        ]
+    },
+    "n6Y2Jk0G0IY": {
+        "kind": "youtube#videoListResponse",
+        "etag": "nSdGIFZBDu_FxlWxToBtK16EjLs",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "N7u1CreSI3Rxzm43R9qRSf6T28I",
+                "id": "n6Y2Jk0G0IY",
+                "snippet": {
+                    "publishedAt": "2024-02-08T18:00:07Z",
+                    "channelId": "UCT3wF21Qx0d0HmuiCzji8Lg",
+                    "title": "Carmelo & Mero Discuss MVP Favorites, Doc Rivers Career, Beyonc\u00e9 Impact & More with Bomani Jones",
+                    "description": "Bomani Jones stopped by 7PM in Brooklyn to chop it up with the guys about the current landscape of College Basketball and why it\u2019s facing its most challenging dilemma. Carmelo also shares his crucial advice with Kiyan as he looks ahead to his basketball future. Carmelo, Bomani, and Mero also keep it real on Doc Rivers, Taylor Swift vs. Beyonc\u00e9, and much more. Tap In! #carmeloanthony #shaigilgeousalexander #taylorswift #beyonce \n.\n.\n.\nNew episodes drop every Thursday. \n\nSubscribe to the podcast on Spotify, Apple, or wherever you get your podcasts, and follow the show on Instagram, Twitter, and TikTok for all the best moments from the show.\n\nDownload the full podcast here:\n\nSpotify: https://open.spotify.com/show/4sEy5p87mJ002F3NGsKIpq\n\nApple: https://podcasts.apple.com/us/podcast/7pm-in-brooklyn-with-carmelo-anthony-the-kid-mero/id1719570183\n\nAmazon: https://music.amazon.com/podcasts/6f088d77-2522-4c50-8d49-2792070534c8/7pm-in-brooklyn-with-carmelo-anthony-the-kid-mero\n\nFollow 7PM in Brooklyn on Social Media: hoo.be/7pminbrooklyn",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/n6Y2Jk0G0IY/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/n6Y2Jk0G0IY/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/n6Y2Jk0G0IY/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/n6Y2Jk0G0IY/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/n6Y2Jk0G0IY/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "7PM in Brooklyn with Carmelo Anthony & Kid Mero",
+                    "tags": [
+                        "Carmelo Anthony",
+                        "The Kid Mero",
+                        "New York Knicks",
+                        "7PM in Brooklyn"
+                    ],
+                    "categoryId": "22",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": null,
+                    "localized": {
+                        "title": "Carmelo & Mero Discuss MVP Favorites, Doc Rivers Career, Beyonc\u00e9 Impact & More with Bomani Jones",
+                        "description": "Bomani Jones stopped by 7PM in Brooklyn to chop it up with the guys about the current landscape of College Basketball and why it\u2019s facing its most challenging dilemma. Carmelo also shares his crucial advice with Kiyan as he looks ahead to his basketball future. Carmelo, Bomani, and Mero also keep it real on Doc Rivers, Taylor Swift vs. Beyonc\u00e9, and much more. Tap In! #carmeloanthony #shaigilgeousalexander #taylorswift #beyonce \n.\n.\n.\nNew episodes drop every Thursday. \n\nSubscribe to the podcast on Spotify, Apple, or wherever you get your podcasts, and follow the show on Instagram, Twitter, and TikTok for all the best moments from the show.\n\nDownload the full podcast here:\n\nSpotify: https://open.spotify.com/show/4sEy5p87mJ002F3NGsKIpq\n\nApple: https://podcasts.apple.com/us/podcast/7pm-in-brooklyn-with-carmelo-anthony-the-kid-mero/id1719570183\n\nAmazon: https://music.amazon.com/podcasts/6f088d77-2522-4c50-8d49-2792070534c8/7pm-in-brooklyn-with-carmelo-anthony-the-kid-mero\n\nFollow 7PM in Brooklyn on Social Media: hoo.be/7pminbrooklyn"
+                    },
+                    "defaultAudioLanguage": null
+                },
+                "contentDetails": {
+                    "duration": "PT1H50M29S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 170556,
+                    "likeCount": 3556,
+                    "dislikeCount": null,
+                    "commentCount": 310
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Basketball",
+                        "https://en.wikipedia.org/wiki/Entertainment"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/n6Y2Jk0G0IY\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": {
+                    "actualStartTime": "2024-02-08T18:00:07Z",
+                    "actualEndTime": "2024-02-08T19:51:35Z",
+                    "scheduledStartTime": "2024-02-08T18:00:00Z",
+                    "scheduledEndTime": null,
+                    "concurrentViewers": null,
+                    "activeLiveChatId": null
+                }
+            }
+        ],
+        "seenCount": 1,
+        "depths": [
+            6
+        ]
+    },
+    "9TTfLoJd8Uw": {
+        "kind": "youtube#videoListResponse",
+        "etag": "7TDfdJXNKbJZu0NHtgbSGQX9LPY",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "9yZ-cc7tCF03BHcrzvXvv2phm5I",
+                "id": "9TTfLoJd8Uw",
+                "snippet": {
+                    "publishedAt": "2024-02-15T18:00:08Z",
+                    "channelId": "UCT3wF21Qx0d0HmuiCzji8Lg",
+                    "title": "Joe Budden on Professional Breakups, Truth About Desus & Mero and Unpopular NBA Opinions",
+                    "description": "Joe Budden stops by 7PM in Brooklyn and chops it up with the guys about the state of the NBA, unpopular hoops opinions and an in-depth conversation about professional break ups. Tap In! \n.\n.\n.\nNew episodes drop every Thursday. \n\nSubscribe to the podcast on Spotify, Apple, or wherever you get your podcasts, and follow the show on Instagram, Twitter, and TikTok for all the best moments from the show.\n\nDownload the full podcast here:\n\nSpotify: https://open.spotify.com/show/4sEy5p87mJ002F3NGsKIpq\n\nApple: https://podcasts.apple.com/us/podcast/7pm-in-brooklyn-with-carmelo-anthony-the-kid-mero/id1719570183\n\nAmazon: https://music.amazon.com/podcasts/6f088d77-2522-4c50-8d49-2792070534c8/7pm-in-brooklyn-with-carmelo-anthony-the-kid-mero\n\nFollow 7PM in Brooklyn on Social Media: hoo.be/7pminbrooklyn",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/9TTfLoJd8Uw/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/9TTfLoJd8Uw/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/9TTfLoJd8Uw/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/9TTfLoJd8Uw/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/9TTfLoJd8Uw/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "7PM in Brooklyn with Carmelo Anthony & Kid Mero",
+                    "tags": [
+                        "Carmelo Anthony",
+                        "The Kid Mero",
+                        "New York Knicks",
+                        "7PM in Brooklyn"
+                    ],
+                    "categoryId": "22",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": null,
+                    "localized": {
+                        "title": "Joe Budden on Professional Breakups, Truth About Desus & Mero and Unpopular NBA Opinions",
+                        "description": "Joe Budden stops by 7PM in Brooklyn and chops it up with the guys about the state of the NBA, unpopular hoops opinions and an in-depth conversation about professional break ups. Tap In! \n.\n.\n.\nNew episodes drop every Thursday. \n\nSubscribe to the podcast on Spotify, Apple, or wherever you get your podcasts, and follow the show on Instagram, Twitter, and TikTok for all the best moments from the show.\n\nDownload the full podcast here:\n\nSpotify: https://open.spotify.com/show/4sEy5p87mJ002F3NGsKIpq\n\nApple: https://podcasts.apple.com/us/podcast/7pm-in-brooklyn-with-carmelo-anthony-the-kid-mero/id1719570183\n\nAmazon: https://music.amazon.com/podcasts/6f088d77-2522-4c50-8d49-2792070534c8/7pm-in-brooklyn-with-carmelo-anthony-the-kid-mero\n\nFollow 7PM in Brooklyn on Social Media: hoo.be/7pminbrooklyn"
+                    },
+                    "defaultAudioLanguage": null
+                },
+                "contentDetails": {
+                    "duration": "PT1H44M30S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 379196,
+                    "likeCount": 9643,
+                    "dislikeCount": null,
+                    "commentCount": 1042
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Basketball",
+                        "https://en.wikipedia.org/wiki/Entertainment"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/9TTfLoJd8Uw\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": {
+                    "actualStartTime": "2024-02-15T18:00:08Z",
+                    "actualEndTime": "2024-02-15T19:46:35Z",
+                    "scheduledStartTime": "2024-02-15T18:00:00Z",
+                    "scheduledEndTime": null,
+                    "concurrentViewers": null,
+                    "activeLiveChatId": null
+                }
+            }
+        ],
+        "seenCount": 1,
+        "depths": [
+            7
+        ]
+    },
+    "0HnK3BKTNf0": {
+        "kind": "youtube#videoListResponse",
+        "etag": "e8pLyHWYTWZwH8IPkqbooWlMrQQ",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "wvWQnDLHklm4lRC1_2qDROxVmOw",
+                "id": "0HnK3BKTNf0",
+                "snippet": {
+                    "publishedAt": "2024-03-01T00:00:11Z",
+                    "channelId": "UCT3wF21Qx0d0HmuiCzji8Lg",
+                    "title": "Draymond Green Gets Real On Retirement Thoughts, Kevin Durant Relationship, LeBron Trade Talk & More",
+                    "description": "On 7PM in Brooklyn, four-time NBA Champion and Future Hall of Famer Draymond Green stops by and chops it up with the guys; they discuss how Adam Silver stopped him from nearly retiring, what his relationship is like with Kevin Durant currently and if the duo of LeBron James and Stephen Curry could hypothetically be the greatest pairing ever. Tap In! #carmeloanthony #draymondgreen #goldenstatewarriors \n.\n.\n.\nNew episodes drop every Thursday. \n\nSubscribe to the podcast on Spotify, Apple, or wherever you get your podcasts, and follow the show on Instagram, Twitter, and TikTok for all the best moments from the show.\n\nDownload the full podcast here:\n\nSpotify: https://open.spotify.com/show/4sEy5p87mJ002F3NGsKIpq\n\nApple: https://podcasts.apple.com/us/podcast/7pm-in-brooklyn-with-carmelo-anthony-the-kid-mero/id1719570183\n\nAmazon: https://music.amazon.com/podcasts/6f088d77-2522-4c50-8d49-2792070534c8/7pm-in-brooklyn-with-carmelo-anthony-the-kid-mero\n\nFollow 7PM in Brooklyn on Social Media: hoo.be/7pminbrooklyn",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/0HnK3BKTNf0/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/0HnK3BKTNf0/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/0HnK3BKTNf0/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/0HnK3BKTNf0/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/0HnK3BKTNf0/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "7PM in Brooklyn with Carmelo Anthony & Kid Mero",
+                    "tags": [
+                        "Carmelo Anthony",
+                        "The Kid Mero",
+                        "New York Knicks",
+                        "7PM in Brooklyn"
+                    ],
+                    "categoryId": "22",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": null,
+                    "localized": {
+                        "title": "Draymond Green Gets Real On Retirement Thoughts, Kevin Durant Relationship, LeBron Trade Talk & More",
+                        "description": "On 7PM in Brooklyn, four-time NBA Champion and Future Hall of Famer Draymond Green stops by and chops it up with the guys; they discuss how Adam Silver stopped him from nearly retiring, what his relationship is like with Kevin Durant currently and if the duo of LeBron James and Stephen Curry could hypothetically be the greatest pairing ever. Tap In! #carmeloanthony #draymondgreen #goldenstatewarriors \n.\n.\n.\nNew episodes drop every Thursday. \n\nSubscribe to the podcast on Spotify, Apple, or wherever you get your podcasts, and follow the show on Instagram, Twitter, and TikTok for all the best moments from the show.\n\nDownload the full podcast here:\n\nSpotify: https://open.spotify.com/show/4sEy5p87mJ002F3NGsKIpq\n\nApple: https://podcasts.apple.com/us/podcast/7pm-in-brooklyn-with-carmelo-anthony-the-kid-mero/id1719570183\n\nAmazon: https://music.amazon.com/podcasts/6f088d77-2522-4c50-8d49-2792070534c8/7pm-in-brooklyn-with-carmelo-anthony-the-kid-mero\n\nFollow 7PM in Brooklyn on Social Media: hoo.be/7pminbrooklyn"
+                    },
+                    "defaultAudioLanguage": null
+                },
+                "contentDetails": {
+                    "duration": "PT2H1M44S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 541547,
+                    "likeCount": 7083,
+                    "dislikeCount": null,
+                    "commentCount": 612
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Basketball",
+                        "https://en.wikipedia.org/wiki/Sport"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/0HnK3BKTNf0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": {
+                    "actualStartTime": "2024-03-01T00:00:11Z",
+                    "actualEndTime": "2024-03-01T02:03:49Z",
+                    "scheduledStartTime": "2024-03-01T00:00:00Z",
+                    "scheduledEndTime": null,
+                    "concurrentViewers": null,
+                    "activeLiveChatId": null
+                }
+            }
+        ],
+        "seenCount": 1,
+        "depths": [
+            8
+        ]
+    },
+    "5UXTIVTOHaY": {
+        "kind": "youtube#videoListResponse",
+        "etag": "ONbXSlUZWbpeYGlyx2KpdsONqng",
+        "nextPageToken": null,
+        "prevPageToken": null,
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "S-xfVhLzmD_HBgS9oRjMZ1pEPtk",
+                "id": "5UXTIVTOHaY",
+                "snippet": {
+                    "publishedAt": "2024-03-08T06:00:07Z",
+                    "channelId": "UCT3wF21Qx0d0HmuiCzji8Lg",
+                    "title": "Learning from Jordan, Coming up with LeBron, Building for Wemby & More",
+                    "description": "7PM in Brooklyn is back and the guys break down what the San Antonio Spurs should do differently to properly build around Wemby. Carmelo explains the origins behind his signing with the Air Jordan Brand and also shows love to his brother LeBron eclipsing 40,000 career points. Tap In! \n.\n.\n.\nNew episodes drop every Thursday. \n\nSubscribe to the podcast on Spotify, Apple, or wherever you get your podcasts, and follow the show on Instagram, Twitter, and TikTok for all the best moments from the show.\n\nDownload the full podcast here:\n\nSpotify: https://open.spotify.com/show/4sEy5p87mJ002F3NGsKIpq\n\nApple: https://podcasts.apple.com/us/podcast/7pm-in-brooklyn-with-carmelo-anthony-the-kid-mero/id1719570183\n\nAmazon: https://music.amazon.com/podcasts/6f088d77-2522-4c50-8d49-2792070534c8/7pm-in-brooklyn-with-carmelo-anthony-the-kid-mero\n\nFollow 7PM in Brooklyn on Social Media: hoo.be/7pminbrooklyn",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/5UXTIVTOHaY/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/5UXTIVTOHaY/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/5UXTIVTOHaY/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/5UXTIVTOHaY/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/5UXTIVTOHaY/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "7PM in Brooklyn with Carmelo Anthony & Kid Mero",
+                    "tags": [
+                        "Carmelo Anthony",
+                        "The Kid Mero",
+                        "New York Knicks",
+                        "7PM in Brooklyn"
+                    ],
+                    "categoryId": "22",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": null,
+                    "localized": {
+                        "title": "Learning from Jordan, Coming up with LeBron, Building for Wemby & More",
+                        "description": "7PM in Brooklyn is back and the guys break down what the San Antonio Spurs should do differently to properly build around Wemby. Carmelo explains the origins behind his signing with the Air Jordan Brand and also shows love to his brother LeBron eclipsing 40,000 career points. Tap In! \n.\n.\n.\nNew episodes drop every Thursday. \n\nSubscribe to the podcast on Spotify, Apple, or wherever you get your podcasts, and follow the show on Instagram, Twitter, and TikTok for all the best moments from the show.\n\nDownload the full podcast here:\n\nSpotify: https://open.spotify.com/show/4sEy5p87mJ002F3NGsKIpq\n\nApple: https://podcasts.apple.com/us/podcast/7pm-in-brooklyn-with-carmelo-anthony-the-kid-mero/id1719570183\n\nAmazon: https://music.amazon.com/podcasts/6f088d77-2522-4c50-8d49-2792070534c8/7pm-in-brooklyn-with-carmelo-anthony-the-kid-mero\n\nFollow 7PM in Brooklyn on Social Media: hoo.be/7pminbrooklyn"
+                    },
+                    "defaultAudioLanguage": null
+                },
+                "contentDetails": {
+                    "duration": "PT1H33M2S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "regionRestriction": null,
+                    "contentRating": {},
+                    "projection": "rectangular",
+                    "hasCustomThumbnail": null
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "failureReason": null,
+                    "rejectionReason": null,
+                    "privacyStatus": "public",
+                    "publishAt": null,
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false,
+                    "selfDeclaredMadeForKids": null
+                },
+                "statistics": {
+                    "viewCount": 175327,
+                    "likeCount": 2556,
+                    "dislikeCount": null,
+                    "commentCount": 287
+                },
+                "topicDetails": {
+                    "topicIds": null,
+                    "relevantTopicIds": null,
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Association_football",
+                        "https://en.wikipedia.org/wiki/Basketball",
+                        "https://en.wikipedia.org/wiki/Sport"
+                    ]
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/5UXTIVTOHaY\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+                    "embedHeight": null,
+                    "embedWidth": null
+                },
+                "liveStreamingDetails": {
+                    "actualStartTime": "2024-03-08T06:00:07Z",
+                    "actualEndTime": "2024-03-08T07:35:07Z",
+                    "scheduledStartTime": "2024-03-08T06:00:00Z",
+                    "scheduledEndTime": null,
+                    "concurrentViewers": null,
+                    "activeLiveChatId": null
+                }
+            }
+        ],
+        "seenCount": 1,
+        "depths": [
+            9
+        ]
+    }
+}

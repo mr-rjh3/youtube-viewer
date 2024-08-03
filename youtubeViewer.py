@@ -102,6 +102,7 @@ def getSuggestedVideo(yt_data, deadends):
     # find the next suggested video from a given youtube page
     try:
         ID = yt_data["responseContext"]["webResponseContextExtensionData"]["webPrefetchData"]["navigationEndpoints"][0]["watchEndpoint"]["videoId"]
+        deadends[ID] # if this throws error it means that ID is a deadend
         return ID 
     except KeyError:
         ""
